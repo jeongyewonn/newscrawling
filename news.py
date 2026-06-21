@@ -39,7 +39,8 @@ def judge_market(title, description):
 """
     response = client.chat.completions.create(
         model="gpt-4o-mini",
-        messages=[{"role": "user", "content": prompt}]
+        messages=[{"role": "user", "content": prompt}],
+        response_format={"type": "json_object"} 
     )
     return json.loads(response.choices[0].message.content)
 
