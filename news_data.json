@@ -1,1309 +1,1409 @@
 [
   {
-    "title": "亞 오후 장중...한국·일본증시 '하락' vs 홍콩·인도증시 '상승'",
-    "description": "이 시각 미국달러 대비 엔화 및 원화가치와 한국증시 코스피 지수, 일본증시 니케이225 지수가 동반 하락 중이다. 이날 비슷한 시각(한국시각 오후 1시 44분 기준) 한국증시에서는 삼성전자의 주가가 1.78% 상승...",
-    "date": "Mon, 06 Jul 2026 14:08:00 +0900",
-    "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=167681",
+    "title": "[서울데이터랩]코스피 시총 상위주 장중 급락…반도체·2차전지·자동차...",
+    "description": "7일 오후 12시 30분 현재 코스피 시가총액 상위 종목들이 전반적으로 큰 폭의 약세를 나타내고 있다. 반도체와 2차전지, 자동차, 지주사까지 주력 업종 전반에 매도세가 확산하면서 시가총액...",
+    "date": "Tue, 07 Jul 2026 13:51:00 +0900",
+    "link": "https://www.seoul.co.kr/news/economy/securities/2026/07/07/20260707500121?wlog_tag3=naver",
     "stocks": [
       {
-        "name": "삼성전자",
-        "result": "상승",
-        "change_pct": 1.45,
-        "prev_close": 309500.0,
-        "curr_close": 314000.0
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.42,
+        "prev_close": 8051.33,
+        "curr_close": 7454.1
       }
     ]
   },
   {
-    "title": "삼성전자 2분기 잠정실적 7일 발표...코스피 운명 가른다",
-    "description": "(HBM) 등 고부가 시장 내 삼성전자의 경쟁력 회복 여부가 기업가치의 핵심 변수로 떠올랐기 때문이다. 시가총액 1위인 삼성전자의 성적에 따라 코스피의 추가 상승 여부나 단기 차익실현 매물 출회 여부가 결정될 전망이다.",
-    "date": "Mon, 06 Jul 2026 14:08:00 +0900",
-    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3627476",
-    "stocks": [
-      {
-        "name": "삼성전자",
-        "result": "상승",
-        "change_pct": 1.45,
-        "prev_close": 309500.0,
-        "curr_close": 314000.0
-      }
-    ]
-  },
-  {
-    "title": "美 나스닥 선물 '상승'에도...일본증시 '장중 하락', 소프트뱅크 '뚝'",
-    "description": "코스피 지수는 오후 1시 44분 현재 직전거래일 대비 0.48% 하락한 8049.69를 기록 중이다. 외국인과 기관이 순매도하고 있다. 시가총액 상위종목 중 SK하이닉스(-2.06%), SK스퀘어(-5.66%), LG에너지솔루션(-2.34...",
-    "date": "Mon, 06 Jul 2026 14:08:00 +0900",
-    "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=167682",
+    "title": "&quot;SK하이닉스 나스닥 상장에 10조 쏜다&quot;…오픈AI 출신 펀드·외인 '뭉칫돈...",
+    "description": "경이로운 성적표에 힘입어 SK하이닉스 주가는 지난 1년간 코스피 시장에서 750% 이상 수직 상승했다. 이에... ADS 공모가는 지난 7월 3일 기준 코스피 종가를 반영해 주당 약 158달러(약 24만원) 선에서 결정될 예정이다....",
+    "date": "Tue, 07 Jul 2026 13:50:00 +0900",
+    "link": "https://www.pointe.co.kr/news/articleView.html?idxno=81497",
     "stocks": [
       {
         "name": "SK하이닉스",
         "result": "하락",
-        "change_pct": -2.27,
-        "prev_close": 2425000.0,
-        "curr_close": 2370000.0
-      },
-      {
-        "name": "SK스퀘어",
-        "result": "하락",
-        "change_pct": -5.54,
-        "prev_close": 1589000.0,
-        "curr_close": 1501000.0
-      },
-      {
-        "name": "LG에너지솔루션",
-        "result": "하락",
-        "change_pct": -2.34,
-        "prev_close": 362500.0,
-        "curr_close": 354000.0
+        "change_pct": -9.73,
+        "prev_close": 2343000.0,
+        "curr_close": 2115000.0
       }
     ]
   },
   {
-    "title": "[직설] 기로에 선 국내 증시, 7월 향방은?",
-    "description": "코스피 1만 시대 전망에 환호했던 게 엊그제 같은데 지금은 조정이냐 아니냐를 고민하게 됐습니다.... 코스피 1만 시대의 꿈은 아직 유효한 걸까요? Q. 상반기 외국인은 국내 주식을 150조 원 가까이 팔아치웠습니다....",
-    "date": "Mon, 06 Jul 2026 14:05:00 +0900",
-    "link": "https://biz.sbs.co.kr/article_hub/20000320779?division=NAVER",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.69,
-        "prev_close": 8088.34,
-        "curr_close": 8032.9
-      }
-    ]
-  },
-  {
-    "title": "[시장 따라잡기] K-뷰티, 월간 기준 역대 최대 수출…주가 전망은?",
-    "description": "그간 코스피가 9천선을 터치할 때도 증권은 크게 움직이는 모습이 아니었는데요. 이들 섹터 하반기 움직임은 어떨지요? Q. 미국증시에선 반도체에서 이탈한 자금이 제약, 바이오주로 흘러 들어가는 모습도 보였는데요....",
-    "date": "Mon, 06 Jul 2026 14:05:00 +0900",
-    "link": "https://biz.sbs.co.kr/article_hub/20000320780?division=NAVER",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.69,
-        "prev_close": 8088.34,
-        "curr_close": 8032.9
-      }
-    ]
-  },
-  {
-    "title": "[정책리뷰] 단일종목 레버리지 ETF 논란 확산",
-    "description": "안철수 국민의힘 의원은 삼성전자와 SK하이닉스 단일종목 레버리지 ETF가 과도한 일일 리밸런싱을 유발해 코스피 변동성을 확대하고 있다고 주장했다. 그는 이들 상품에 막대한 자금이 몰리면서 시장이 기업의 실적보다...",
-    "date": "Mon, 06 Jul 2026 14:04:00 +0900",
-    "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=43334",
+    "title": "폭락장서 삼성전자·SK하이닉스 반도체 대형주 '줍줍' 포착",
+    "description": "사진/삼성전자 사옥 코스피 시장이 전반적인 폭락세를 보이는 가운데, 이른바 '주식 초고수'로 불리는 고수익 투자자들이 삼성전자와 SK하이닉스 등 반도체 대형주를 중심으로 적극적인 저가 매수에 나선 것으로...",
+    "date": "Tue, 07 Jul 2026 13:50:00 +0900",
+    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3628740",
     "stocks": [
       {
         "name": "삼성전자",
-        "result": "상승",
-        "change_pct": 1.45,
-        "prev_close": 309500.0,
-        "curr_close": 314000.0
+        "result": "하락",
+        "change_pct": -9.12,
+        "prev_close": 318000.0,
+        "curr_close": 289000.0
       },
       {
         "name": "SK하이닉스",
         "result": "하락",
-        "change_pct": -2.27,
-        "prev_close": 2425000.0,
-        "curr_close": 2370000.0
+        "change_pct": -9.73,
+        "prev_close": 2343000.0,
+        "curr_close": 2115000.0
       }
     ]
   },
   {
-    "title": "“증시 폭락 때 물려줬는데 왜 세금이 더 나오지”…모르면 당하는 ‘주...",
-    "description": "특히 코스피는 하루에 10% 안팎의 진폭을 보이고 있는데요. 일부 수익을 본 투자자라면 자녀에게 ‘알짜 주식’을 증여하고 싶은 마음도 들겁니다. 열두 번째 ‘국세청이 알려주지 않는 세테크’는 이번 증시 변동성을...",
-    "date": "Mon, 06 Jul 2026 14:03:00 +0900",
-    "link": "https://www.seoul.co.kr/news/plan/taxtech/2026/07/06/20260706500113?wlog_tag3=naver",
+    "title": "89조 벌고 주가는 9%대 급락…외인·기관 순매도 맥 못 추는 코스피",
+    "description": "행렬에 코스피가 맥을 못 추고 있다. 증권가에서는 &quot;중요한 건 눈높이&quot;라며 연속적인 이익 모멘텀이 확보돼야 추격 매수가 붙을 것이라고 분석한다. 최근 코스피 급등락, 단일종목 레버리지 ETF(상장지수펀드)...",
+    "date": "Tue, 07 Jul 2026 13:49:00 +0900",
+    "link": "https://www.mt.co.kr/stock/2026/07/07/2026070711332982915",
     "stocks": [
       {
         "name": "코스피",
         "result": "하락",
-        "change_pct": -0.69,
-        "prev_close": 8088.34,
-        "curr_close": 8032.9
+        "change_pct": -7.42,
+        "prev_close": 8051.33,
+        "curr_close": 7454.1
       }
     ]
   },
   {
-    "title": "코스피 상위 30대 기업 사업지, 주변 생태계 평가관리 시급",
-    "description": "삼성, 현대, 한화 등 코스피(KOSPI) 시가총액 상위 30대 기업의 사업장 인근 5㎞ 이내에 약 18만6000㏊ 규모의 생태계 보전가치가 높은 지역이 포함된 것으로 나타났다. 재단법인 숲과나눔 풀씨행동연구소는 KOSPI...",
-    "date": "Mon, 06 Jul 2026 14:02:00 +0900",
-    "link": "http://www.lak.co.kr/news/boardview.php?id=23439",
+    "title": "삼전 사상 최대 실적에도 9% 하락..코스피 7500선 아래로",
+    "description": "코스피 지수가 장중 7500선 아래로 떨어졌다. 7일 한국거래소에 따르면 이날 코스피는 전 거래일 대비 1.64% 내린 7919.20에 개장했으나, 오후 들어 낙폭을 7% 이상으로 확대하며 장중 7440선까지 밀렸다. 오전...",
+    "date": "Tue, 07 Jul 2026 13:48:00 +0900",
+    "link": "https://www.joongang.co.kr/article/25443065",
     "stocks": [
       {
         "name": "코스피",
         "result": "하락",
-        "change_pct": -0.69,
-        "prev_close": 8088.34,
-        "curr_close": 8032.9
+        "change_pct": -7.42,
+        "prev_close": 8051.33,
+        "curr_close": 7454.1
       }
     ]
   },
   {
-    "title": "안철수 &quot;코스피가 카지노 전락…삼전닉스 레버리지 ETF 상폐해야&quot;",
-    "description": "&quot;주가 변동성 키워 코스피 흔들어&quot; 금융당국 책임론도 제기 국민의힘 안철수 의원이 삼성전자와... 안 의원은 6일 사회관계망서비스(SNS)를 통해 &quot;코스피가 카지노로 전락했다&quot;며 &quot;삼성전자·SK하이닉스 레버리지 ETF에...",
-    "date": "Mon, 06 Jul 2026 14:02:00 +0900",
-    "link": "https://www.tjb.co.kr/news05/bodo/view/id/100473",
+    "title": "[오후장 체크포인트] 반도체 휘청이며 코스피 7600선도 붕괴",
+    "description": "이렇게 반도체 대형주가 힘을 쓰지 못하자, 코스피도 동력이 약해진 모습이죠. 8천 선을 다시 이탈하면서 매도 사이드카까지 발동되기도 했는데요. 7월 코스피 반등 계기가 있을지요? Q. 사실, 이렇게 호실적이 나오면...",
+    "date": "Tue, 07 Jul 2026 13:48:00 +0900",
+    "link": "https://biz.sbs.co.kr/article_hub/20000321114?division=NAVER",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.42,
+        "prev_close": 8051.33,
+        "curr_close": 7454.1
+      }
+    ]
+  },
+  {
+    "title": "&quot;종목 2500개 AI가 분석&quot; LG, 코스콤과 주식시장 예측 서비스",
+    "description": "두 회사는 LG AI 연구원의 AI 예측 기술을 적용한 금융AI 에이전트에 코스콤의 금융데이터를 결합해 코스피 등 주식시장에 특화된 AI예측 분석 서비스를 구축하게 됩니다. LG AI 연구원의 '엑사원 BI'는 다수의...",
+    "date": "Tue, 07 Jul 2026 13:48:00 +0900",
+    "link": "https://biz.sbs.co.kr/article_hub/20000321117?division=NAVER",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.42,
+        "prev_close": 8051.33,
+        "curr_close": 7454.1
+      }
+    ]
+  },
+  {
+    "title": "밸류업 지수 6월도 최고치 경신…관련 ETF 순자산총액 4.2조 기록",
+    "description": "이는 지수 산출 개시 시점인 2024년 9월 30일(992.13p) 대비 331.1% 상승한 것으로 동기간 코스피 지수 상승률... 6월 기업가치 제고 계획을 신규 공시한 기업은 총 12사이며, 누적으로는 741사(코스피 347사, 코스닥 394사)가...",
+    "date": "Tue, 07 Jul 2026 13:48:00 +0900",
+    "link": "https://www.news1.kr/finance/general-stock/6220230",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.42,
+        "prev_close": 8051.33,
+        "curr_close": 7454.1
+      }
+    ]
+  },
+  {
+    "title": "반도체 독주 끝?…증권가 &quot;하반기 순환매 가능성 커졌지만 아직은 판단...",
+    "description": "황지우 SK증권 연구원은 &quot;코스피는 주간 2.95% 하락했지만 상승 종목 비율은 75.6%까지 회복하는 등 시장 내부 확산은 오히려 개선됐다&quot;며 &quot;그동안 부진했던 내수·소비 업종은 물론 헬스케어와 산업재, 금융 등 비AI...",
+    "date": "Tue, 07 Jul 2026 13:47:00 +0900",
+    "link": "https://www.greened.kr/news/articleView.html?idxno=344392",
+    "stocks": [
+      {
+        "name": "SK하이닉스",
+        "result": "하락",
+        "change_pct": -9.73,
+        "prev_close": 2343000.0,
+        "curr_close": 2115000.0
+      }
+    ]
+  },
+  {
+    "title": "[서울데이터랩]코스피 거래상위 혼조…아센디오 급등, 한화오션·대형 ...",
+    "description": "7일 오후 12시 30분 기준 코스피 거래량 상위 종목은 개별 종목별로 주가 흐름이 엇갈리고 있다.... 장중 코스피 거래량 상위 종목군에서는 일부 개별주 강세에도 불구하고 반도체와 조선 등...",
+    "date": "Tue, 07 Jul 2026 13:45:00 +0900",
+    "link": "https://www.seoul.co.kr/news/economy/securities/2026/07/07/20260707500117?wlog_tag3=naver",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.42,
+        "prev_close": 8051.33,
+        "curr_close": 7454.1
+      }
+    ]
+  },
+  {
+    "title": "밸류업 공시 741곳 돌파…코스피 시총 90%가 움직였다",
+    "description": "특히 코스피 공시 기업의 시가총액은 6194조1000억원으로 코스피 전체의 89.4%에 달했다. 공시 기업 수 비중은 코스피 41.6%, 코스닥 22.5%지만, 대형 상장사를 중심으로 참여가 집중되면서 시가총액 기준 영향력은...",
+    "date": "Tue, 07 Jul 2026 13:44:00 +0900",
+    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1715390",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.42,
+        "prev_close": 8051.33,
+        "curr_close": 7454.1
+      }
+    ]
+  },
+  {
+    "title": "코스피, 낙폭확대 7.6%↓ 7,400대…삼전·닉스 9∼10%↓",
+    "description": "코스피가 7일 장중 7% 넘게 하락해 7,400선으로 내려앉았다. 이날 오후 1시 35분 현재 코스피는 전날보다 612.16포인트(7.60%) 내린 7,439.17이다. 지수는 전장 대비 132.13포인트(1.64%) 내린 7,919.20으로 출발해...",
+    "date": "Tue, 07 Jul 2026 13:43:00 +0900",
+    "link": "https://www.yna.co.kr/view/AKR20260707102400008?input=1195m",
     "stocks": [
       {
         "name": "삼성전자",
-        "result": "상승",
-        "change_pct": 1.45,
-        "prev_close": 309500.0,
-        "curr_close": 314000.0
+        "result": "하락",
+        "change_pct": -9.12,
+        "prev_close": 318000.0,
+        "curr_close": 289000.0
       },
       {
         "name": "SK하이닉스",
         "result": "하락",
-        "change_pct": -2.27,
-        "prev_close": 2425000.0,
-        "curr_close": 2370000.0
+        "change_pct": -9.73,
+        "prev_close": 2343000.0,
+        "curr_close": 2115000.0
       }
     ]
   },
   {
-    "title": "[서지용의 증시톡톡]코스피 불장 뒤의 그늘, 코스닥 소액주주는 안전한...",
-    "description": "최근 코스피 지수의 상승세는 한국 자본시장의 체력을 보여주는 긍정적 신호로 해석된다. 그러나 화려한... 코스피의 상승이 자본시장의 '성과'라면, 코스닥의 구조 개선은 '지속 가능성'을 위한 조건이다. 이제 정책의...",
-    "date": "Mon, 06 Jul 2026 14:00:00 +0900",
-    "link": "https://www.newsway.co.kr/news/view?ud=2026070613445259335",
+    "title": "국민연금의 주식 리밸런싱 폭탄, 또 터진다…2차 매도설의 실체",
+    "description": "◇ 코스피 하락 덕분? 국민연금, 매도 폭탄 없었다 국민연금은 기금운용본부를 통해 거액의 기금을 국내외... 코스피가 급락한 2일에는 535억원 순매도에 머물렀고, 3일에는 오히려 557억원을 순매수했다. 국민연금의...",
+    "date": "Tue, 07 Jul 2026 13:42:00 +0900",
+    "link": "https://realty.chosun.com/site/data/html_dir/2026/07/07/2026070701730.html",
     "stocks": [
       {
         "name": "코스피",
         "result": "하락",
-        "change_pct": -0.69,
-        "prev_close": 8088.34,
-        "curr_close": 8032.9
+        "change_pct": -7.51,
+        "prev_close": 8051.33,
+        "curr_close": 7446.55
       }
     ]
   },
   {
-    "title": "&quot;부산시는 초기업 교섭 활성화를 위해 거버넌스를 구축하라!&quot;",
-    "description": "코스피 1만을 찍어도 노동자의 삶은 나아지지 않고 있다. 금속노조 총파업은 함께 살 방법을 찾기 위한 선택이다. AI 기술에 대한 대책, 국민연금과 연동한 정년연장, 원청교섭 쟁취 등. 금속노조의 요구가 함께 사는...",
-    "date": "Mon, 06 Jul 2026 14:00:00 +0900",
-    "link": "http://worknworld.kctu.org/news/articleView.html?idxno=509622",
+    "title": "[시장 따라잡기] 지지부진하던 엔터주…2분기 실적 반등 모멘텀?",
+    "description": "그럼 이러한 반도체 중심 장세 속에서 코스피가 다시 전고점을 향해 달려갈지, 7월 시장 흐름 어떻게 전망하세요? Q. 최근 수급을 보면, 외국인은 연일 순매도 행진을 이어오고 있는데요. 이번주 반도체 대형 이벤트...",
+    "date": "Tue, 07 Jul 2026 13:42:00 +0900",
+    "link": "https://biz.sbs.co.kr/article_hub/20000321032?division=NAVER",
     "stocks": [
       {
         "name": "코스피",
         "result": "하락",
-        "change_pct": -0.69,
-        "prev_close": 8088.34,
-        "curr_close": 8032.9
+        "change_pct": -7.51,
+        "prev_close": 8051.33,
+        "curr_close": 7446.55
       }
     ]
   },
   {
-    "title": "韓 증시 '카지노' 만든 삼전닉스 레버리지 … 정치권서도 '폐지·책임론...",
-    "description": "장동혁 국민의힘 대표는 6일 정부의 경제 정책에 대해 &quot;국민연금으로 증시를 도박판 만들더니, 아예 코스피... 등 코스피가 카지노로 전락했다&quot;고 지적했다. 레버리지 ETF는 기초자산의 하루 수익률을 2배 이상 추종하도록...",
-    "date": "Mon, 06 Jul 2026 14:00:00 +0900",
-    "link": "https://www.newdaily.co.kr/site/data/html/2026/07/06/2026070600133.html",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.69,
-        "prev_close": 8088.34,
-        "curr_close": 8032.9
-      }
-    ]
-  },
-  {
-    "title": "시한폭탄 된 '삼전닉스 레버리지 ETF', 금융당국 수장 파면. 상장폐지 주...",
-    "description": "안의원은 &quot;삼전닉스 레버리지 ETF에 몰린 212조 원의 자금이 주가 변동성을 증폭시키고 있다&quot;며 &quot;코스피는... 그는 &quot;금융위원장과 금융감독원장은 전망도, 대응도, 대책도 모두 실패했다&quot;면서 &quot;지금 같은 롤러코스피",
-    "date": "Mon, 06 Jul 2026 14:00:00 +0900",
-    "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=545489",
+    "title": "[직설] 삼성전자 역대 최대 실적…반도체 피크아웃론 잠재울까?",
+    "description": "한편, 반도체 투톱의 비중이 높아지면서 코스피가 반도체주에 울고 웃고를 반복하고 있는데요. 그럼... 코스피 공포지수가 지난달 평균 80을 웃돌면서 극심한 변동성 장세를 보였는데요. 이런 장에서는 어떤 전략을 갖고...",
+    "date": "Tue, 07 Jul 2026 13:40:00 +0900",
+    "link": "https://biz.sbs.co.kr/article_hub/20000321031?division=NAVER",
     "stocks": [
       {
         "name": "삼성전자",
-        "result": "상승",
-        "change_pct": 1.62,
-        "prev_close": 309500.0,
-        "curr_close": 314500.0
+        "result": "하락",
+        "change_pct": -9.12,
+        "prev_close": 318000.0,
+        "curr_close": 289000.0
+      }
+    ]
+  },
+  {
+    "title": "“선반영이었나” 37만→28만전자…“반도체 정점 찍었다” 주장 나왔다...",
+    "description": "외국인이 코스피에서 대거 차익 실현에 나선 가운데, 월가에서는 “반도체의 상승이 둔화되고 순환매가... 무너지며 코스피는 7%대 하락해 7440선까지 밀려났다. 美 상장 SK하이닉스도 9%대 급락증권가는 ‘인공지능(AI)...",
+    "date": "Tue, 07 Jul 2026 13:38:00 +0900",
+    "link": "https://www.seoul.co.kr/news/economy/securities/2026/07/07/20260707500114?wlog_tag3=naver",
+    "stocks": [
+      {
+        "name": "SK하이닉스",
+        "result": "하락",
+        "change_pct": -9.88,
+        "prev_close": 2343000.0,
+        "curr_close": 2111500.0
+      }
+    ]
+  },
+  {
+    "title": "‘참전용사 후원’ 재조명에 갑자기 ‘돈쭐’…주가까지 뛴 크래미 회사...",
+    "description": "거래소는 이달 1일부터 시총 기준을 코스피 300억원, 코스닥 200억원으로 높였다. 내년 1월부터는 각각 500억원, 300억원으로 한층 상향된다. 한성기업의 시가총액이 306억원 수준에 머물면서 상장폐지 우려가 제기됐다....",
+    "date": "Tue, 07 Jul 2026 13:36:00 +0900",
+    "link": "https://www.sedaily.com/article/20064715?ref=naver",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.51,
+        "prev_close": 8051.33,
+        "curr_close": 7446.55
+      }
+    ]
+  },
+  {
+    "title": "여야, 단일종목 레버리지 ETF 우려 목소리↑…한정애 &quot;필요 제도 보완&quot;",
+    "description": "집중되며 코스피 시장 변동성이 확대되고 있다며 필요한 제도 보완에 나서도록 하겠다고 밝혔다. 한... 또한 &quot;코스피 시총 중 절반 이상을 차지하는 삼성전자와 SK하이닉스 두 종목의 주가가 널뛰기를 반복하면서, 미래...",
+    "date": "Tue, 07 Jul 2026 13:34:00 +0900",
+    "link": "http://www.metroseoul.co.kr/article/20260707500251",
+    "stocks": [
+      {
+        "name": "삼성전자",
+        "result": "하락",
+        "change_pct": -9.36,
+        "prev_close": 318000.0,
+        "curr_close": 288250.0
       },
       {
         "name": "SK하이닉스",
         "result": "하락",
-        "change_pct": -2.27,
-        "prev_close": 2425000.0,
-        "curr_close": 2370000.0
+        "change_pct": -9.88,
+        "prev_close": 2343000.0,
+        "curr_close": 2111500.0
       }
     ]
   },
   {
-    "title": "안철수 &quot;코스피, 카지노 전락…변동성 지속시 세계시장서 '잡주' 취급&quot;",
-    "description": "안철수 국민의힘 의원이 6일 삼성전자·SK하이닉스 레버리지 상장지수펀드(ETF)를 코스피 변동성을 키우는 원인으로 지목하며 상장폐지 검토를 촉구했다. 안 의원은 이날 자신의 페이스북을 통해 &quot;코스피가 카지노로...",
-    "date": "Mon, 06 Jul 2026 14:00:00 +0900",
-    "link": "https://www.kado.net/news/articleView.html?idxno=2059671",
+    "title": "코스피 7500선 붕괴…삼성전자 역대급 실적으로 재료 소진",
+    "description": "받아들이면서 코스피가 7500선 아래로 추락했다. [이미지=연합뉴스] 삼성전자가 역대 최대 분기 이익을 올렸다는 소식을 시장이 재료 소진으로 받아들이면서 코스피가 7500선 아래로 추락했다. 7일 한국거래소에...",
+    "date": "Tue, 07 Jul 2026 13:32:00 +0900",
+    "link": "https://www.joongangenews.com/news/articleView.html?idxno=531075",
     "stocks": [
       {
         "name": "삼성전자",
-        "result": "상승",
-        "change_pct": 1.62,
-        "prev_close": 309500.0,
-        "curr_close": 314500.0
+        "result": "하락",
+        "change_pct": -9.36,
+        "prev_close": 318000.0,
+        "curr_close": 288250.0
+      }
+    ]
+  },
+  {
+    "title": "코스피, 7400선까지 밀려… 삼전닉스 8~9%대 하락세",
+    "description": "코스피가 하락폭을 키우며 7400선까지 후퇴했다. 7일 한국거래소에 따르면 이 날 오후 1시 15분 기준 코스피 지수는 전 거래일 대비 585.54포인트(7.27%) 하락한 7465.79다. 전 거래일 대비 132.13포인트(1.64...",
+    "date": "Tue, 07 Jul 2026 13:32:00 +0900",
+    "link": "https://www.g-enews.com/view.php?ud=202607071323369571923c501012_1",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.51,
+        "prev_close": 8051.33,
+        "curr_close": 7446.55
+      }
+    ]
+  },
+  {
+    "title": "KB국민은행, 홈플러스 협력업체에 최대 5억원 긴급 금융지원",
+    "description": "할인금리도 적용할 예정이다. 기존 대출을 이용 중인 협력업체에 대한 지원도 강화한다. 만기가 도래한 대출은 원금 일부를 상환하지 않아도 최대 1년까지 만기를 연장할 수 있으며, 기한 연장 시 최대 1년간 금리 우대...",
+    "date": "Tue, 07 Jul 2026 13:52:00 +0900",
+    "link": "https://www.mhj21.com/news/articleView.html?idxno=253013",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.51,
+        "prev_close": 8051.33,
+        "curr_close": 7446.55
+      }
+    ]
+  },
+  {
+    "title": "[더벨][Korean Paper] 한국동서발전, 첫 기후전환채권 5억달러 조달 성공",
+    "description": "목표액 대비 5배에 가까운 주문이 모이면서 금리 역시 최초제시금리(IPG) 대비 32bp 줄인 수준에서 발행을 확정했다. 이번 채권은 ESG채권 중 기후전환채권(Climate Transition Finance Bond) 형태로 발행됐다. 기존 그린채권과...",
+    "date": "Tue, 07 Jul 2026 13:52:00 +0900",
+    "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607071106291560103053",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.51,
+        "prev_close": 8051.33,
+        "curr_close": 7446.55
+      }
+    ]
+  },
+  {
+    "title": "KB국민은행, 홈플 협력업체 긴급 금융지원",
+    "description": "KB국민은행은 이들 대출에 할인금리도 제공하기로 했다. 기존에 KB국민은행 대출을 이용 중인 협력업체에... 기한연장 때에도 최대 1년간 금리우대 혜택이 제공된다. 분할상환 중인 대출은 최대 1년 동안 원금 상환을...",
+    "date": "Tue, 07 Jul 2026 13:52:00 +0900",
+    "link": "http://www.4th.kr/news/articleView.html?idxno=2114367",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.51,
+        "prev_close": 8051.33,
+        "curr_close": 7446.55
+      }
+    ]
+  },
+  {
+    "title": "금융위, 포용금융 평가체계 손질…&quot;공급보다 성과&quot; 중심으로 바꾼다",
+    "description": "금융당국이 금융회사의 포용금융 정책을 단순한 대출 공급 규모가 아니라 금리 인하 효과와 금융 접근성 개선 등 실질적인 성과 중심으로 평가하는 체계를 구축한다. 중저신용자의 '금리 절벽'을 완화하기 위한 신용평가...",
+    "date": "Tue, 07 Jul 2026 13:50:00 +0900",
+    "link": "http://www.srtimes.kr/news/articleView.html?idxno=206934",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.51,
+        "prev_close": 8051.33,
+        "curr_close": 7446.55
+      }
+    ]
+  },
+  {
+    "title": "KB라이프생명, 세 차례 보증하는 온라인 연금보험 출시",
+    "description": "시장금리와 공시이율 변동에 따른 적립금 변동성 리스크가 장기 자산 설계의 걸림돌로 지적되고 있다. 특히... 신한라이프는 확정금리형 연금보험을 통해 가입 초기부터 고정된 이율을 제공함으로써 금리 하락기에...",
+    "date": "Tue, 07 Jul 2026 13:50:00 +0900",
+    "link": "http://www.srtimes.kr/news/articleView.html?idxno=206948",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.51,
+        "prev_close": 8051.33,
+        "curr_close": 7446.55
+      }
+    ]
+  },
+  {
+    "title": "금융위, 건전성 규제 합리화·상호금융 개선 등 4대 과제 논의 착수",
+    "description": "사진=연합뉴스 금융당국이 고금리 장기화로 자금난을 겪는 중저신용자 대상 자금공급 확대와 금리단층을 해소하기 위해 규제 완화에 속도를 낸다. 금융위원회는 7일 오전 서울 은행회관 중회의실에서 '포용금융 전략...",
+    "date": "Tue, 07 Jul 2026 13:50:00 +0900",
+    "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=310948",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.51,
+        "prev_close": 8051.33,
+        "curr_close": 7446.55
+      }
+    ]
+  },
+  {
+    "title": "KB국민은행, 홈플러스 협력업체·소상공인에 최대 5억 긴급 금융지원",
+    "description": "할인금리를 제공한다. 또한 기존 대출을 이용 중인 협력업체에는 만기가 도래한 대출의 경우 원금 일부 상환 없이 최대 1년까지 만기 연장 혜택을 주고 기한연장 시 최대 1년간 금리우대 혜택도 제공한다. 분할상환 중인...",
+    "date": "Tue, 07 Jul 2026 13:48:00 +0900",
+    "link": "https://www.newsmap.co.kr/news/articleView.html?idxno=1264",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.51,
+        "prev_close": 8051.33,
+        "curr_close": 7446.55
+      }
+    ]
+  },
+  {
+    "title": "[은행 Talk Talk] KB국민은행, 홈플러스 협력업체 대상 긴급 금융지원 실...",
+    "description": "KB국민은행은 신규 자금이 필요한 협력업체에 피해규모 이내에서 최대 5억원의 긴급 운전자금 대출을 지원하고, 할인금리를 제공한다. ◆KB국민은행, 보이스피싱 예방 웹예능 공개 KB국민은행은 지난 6일 보이스피싱...",
+    "date": "Tue, 07 Jul 2026 13:48:00 +0900",
+    "link": "https://news.dealsitetv.com/articles/172940",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.51,
+        "prev_close": 8051.33,
+        "curr_close": 7446.55
+      }
+    ]
+  },
+  {
+    "title": "[부동산 PF 점검] 엠디엠, 5.5조 '서리풀 복합개발' 공정률 순항",
+    "description": "본 PF 대출의 금리는 트랜치A(4조8400억원 한도) 5.84%, 트랜치B(5100억원 한도) 7.35%로 책정됐다. 향후 공사 진행에 따라 5조3500억원 전액이 기표될 경우 연간 발생할 이자비용만 약 3200억원에 달할 것으로 추산된다. 다만...",
+    "date": "Tue, 07 Jul 2026 13:46:00 +0900",
+    "link": "https://www.bloter.net/news/articleView.html?idxno=667464",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.51,
+        "prev_close": 8051.33,
+        "curr_close": 7446.55
+      }
+    ]
+  },
+  {
+    "title": "비트코인 꺾이자 수수료도 급감……코인거래소 실적 ‘경고등’",
+    "description": "(Fed) 금리 인하 기대감이 맞물리면서 사상 최고가를 경신했다. 그러나 최고점을 달성한 지난해 10월 이후... 여기에 더해 미 연준의 금리 인하 불확실성 확대로 위험회피 심리마저 늘어나 가상자산 가격과 거래대금...",
+    "date": "Tue, 07 Jul 2026 13:46:00 +0900",
+    "link": "https://www.kukinews.com/article/view/kuk202607070093",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.51,
+        "prev_close": 8051.33,
+        "curr_close": 7446.55
+      }
+    ]
+  },
+  {
+    "title": "[코인시황] 비트코인, 6만3000달러 횡보…'바닥 신호'에도 추세 반전 아...",
+    "description": "미국의 금리 인하 기대감이 살아난 데다 저가 매수세가 유입되며 투자심리가 다소 안정된 영향으로 풀이된다. 알트코인은 혼조세를 나타냈다. 시가총액 2위 이더리움은 24시간 전보다 0.46% 내린 1768.82달러에...",
+    "date": "Tue, 07 Jul 2026 13:44:00 +0900",
+    "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=846370",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.58,
+        "prev_close": 8051.33,
+        "curr_close": 7440.75
+      }
+    ]
+  },
+  {
+    "title": "KB국민은행, ‘홈플러스 협력업체’ 대상 긴급 금융지원 실시",
+    "description": "할인금리를 제공한다. 신규 자금 지원뿐만 아니라 기존 대출을 이용 중인 협력업체에 대해서도 금융 부담... 만기가 도래한 대출은 원금 일부 상환 없이 최대 1년까지 만기 연장이 가능하며, 기한연장 시 최대 1년간 금리우...",
+    "date": "Tue, 07 Jul 2026 13:44:00 +0900",
+    "link": "https://www.ceoscoredaily.com/page/view/2026070713390871855",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.58,
+        "prev_close": 8051.33,
+        "curr_close": 7440.75
+      }
+    ]
+  },
+  {
+    "title": "사천시, 농어업인 융자 21억5500만원 지원",
+    "description": "대출금리는 연 1.0%다. 신청을 원하는 농어업인은 주소지 읍·면·동 행정복지센터를 방문해 융자신청서와 사업계획서 등을 제출하면 된다. 시는 자체 심의를 거쳐 오는 8월부터 농협 사천시지부를 통해 대출이...",
+    "date": "Tue, 07 Jul 2026 13:43:00 +0900",
+    "link": "https://www.polinews.co.kr/news/articleView.html?idxno=736279",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.58,
+        "prev_close": 8051.33,
+        "curr_close": 7440.75
+      }
+    ]
+  },
+  {
+    "title": "“홈플러스 입점업체에 5억원 대출”…지원 나선 금융권 [금융가 톺아보...",
+    "description": "내주고 금리도 할인해준다. 기존 대출을 이용 중인 협력업체를 대상으로도 금융 부담을 경감해준다. 만기가 도래한 대출은 원금 일부 상환 없이 최대 1년까지 만기를 연장할 수 있다. 기한연장 시 최대 1년간 금리도...",
+    "date": "Tue, 07 Jul 2026 13:40:00 +0900",
+    "link": "https://www.mk.co.kr/article/12092238",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.58,
+        "prev_close": 8051.33,
+        "curr_close": 7440.75
+      }
+    ]
+  },
+  {
+    "title": "KB국민은행, 홈플러스 협력업체 긴급 금융지원...운전자금 최대 5억원",
+    "description": "우대금리도 적용한다. 기존 대출 이용 업체에 대한 금융 부담 완화 방안도 마련했다. 만기가 도래한 대출은 원금 일부를 상환하지 않아도 최대 1년까지 만기를 연장할 수 있으며, 기한 연장 시 최대 1년간 금리 우대 혜택을...",
+    "date": "Tue, 07 Jul 2026 13:38:00 +0900",
+    "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160272889294110",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.58,
+        "prev_close": 8051.33,
+        "curr_close": 7440.75
+      }
+    ]
+  },
+  {
+    "title": "헤지펀드, 엔화 약세 베팅 규모 2007년이후 최대 기록...엔-달러 환율, ...",
+    "description": "엔화는 올해 주요 통화 중 가장 부진한 흐름을 보인 통화 중 하나로, 미국 등과의 큰 금리 격차가 엔화 가치를 끌어내리고 있다. 일본은행(BOJ)이 지난 6월 예상됐던 금리 인상을 단행해 엔화에 도움이 될 것으로 봤으나...",
+    "date": "Tue, 07 Jul 2026 13:38:00 +0900",
+    "link": "http://www.beyondpost.co.kr/view.php?ud=202607071331356272aaae0046f_30",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.58,
+        "prev_close": 8051.33,
+        "curr_close": 7440.75
+      }
+    ]
+  },
+  {
+    "title": "롯데건설, AAA 등급 ABS 3000억 발행 … 유동성·신용도 동시 개선",
+    "description": "이에 따라 롯데건설은 자체 신용등급(A0) 대비 낮은 금리로 자금을 조달할 수 있게 됐다. 유동성 측면에서도 개선 효과가 기대된다. 통상 건설업은 공사비 지출 후 2~6개월 뒤 자금이 회수되지만 이번 구조를 통해...",
+    "date": "Tue, 07 Jul 2026 13:38:00 +0900",
+    "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=86458",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.58,
+        "prev_close": 8051.33,
+        "curr_close": 7440.75
+      }
+    ]
+  },
+  {
+    "title": "엔화 약세 베팅 2007년 이후 최대…투기적 매도 포지션 급증",
+    "description": "엔화는 올해 주요 통화 중 가장 부진한 흐름을 보인 통화 중 하나로 남아있으며, 미국 등과의 큰 금리 격차가 엔화 가치를 끌어내리고 있습니다. 일본은행이 지난 6월 예상됐던 금리 인상을 단행해 엔화에 도움이 될...",
+    "date": "Tue, 07 Jul 2026 13:36:00 +0900",
+    "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008645457&plink=ORI&cooper=NAVER",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.58,
+        "prev_close": 8051.33,
+        "curr_close": 7440.75
+      }
+    ]
+  },
+  {
+    "title": "'적응 과제'에 갇힌 日 정부… 적극 재정 고집이 '슈퍼 엔저' 부른다",
+    "description": "개입과 금리 인상 한계 적극 재정이 엔저 원흉 7일 로이터통신 보도에 따르면, 구마노 히데오 ABC경제연구소... 일본은행의 금리 인상 역시 뚜렷한 효과를 거두지 못했다. 구마노 이코노미스트는 그 이면에 잠재된 더...",
+    "date": "Tue, 07 Jul 2026 13:36:00 +0900",
+    "link": "https://www.g-enews.com/view.php?ud=202607071332243914e7e8286d56_1",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.58,
+        "prev_close": 8051.33,
+        "curr_close": 7440.75
+      }
+    ]
+  },
+  {
+    "title": "효성화학 주가 장중 상한가, 증권가 2분기 흑자전환 전망 '영업이익 1천...",
+    "description": "이 연구원은 &quot;재고평가이익이나 일회성 환율 효과뿐 아니라 폴리프로필렌(PP) 판가 상승, 베트남 설비 가동 안정화, 2025년 말 조기 정기보수 효과가 동시에 맞물린 결과&quot;라고 바라봤다. 이어 &quot;1분기 베트남...",
+    "date": "Tue, 07 Jul 2026 13:52:00 +0900",
+    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=441723",
+    "stocks": [
+      {
+        "name": "효성화학",
+        "result": "하락",
+        "change_pct": -1.15,
+        "prev_close": 26150.0,
+        "curr_close": 25850.0
+      }
+    ]
+  },
+  {
+    "title": "숭실대 총동문회 제9회 숭실리더스포럼 개최.. '동문기업 성공사례, 경...",
+    "description": "또한 환율은 현재 1450~1550원 수준에서 움직이고 있지만 내년에는 점차 안정될 것으로 내다봤다. 특강 이후에는 참석자들과 활발한 질의응답이 이어졌다. 이날 포럼은 학교 발전 및 동문 간의 네트워크 강화를 도모하며...",
+    "date": "Tue, 07 Jul 2026 13:52:00 +0900",
+    "link": "https://www.veritas-a.com/news/articleView.html?idxno=618233",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.58,
+        "prev_close": 8051.33,
+        "curr_close": 7440.75
+      }
+    ]
+  },
+  {
+    "title": "케이뱅크, 송금 넘어 정산까지…스테이블코인 활용성 점검",
+    "description": "케이뱅크는 정산 주체로서 환율 적용, 원화 지급, 자금세탁방지, 의심거래보고 등 운영 체계를 검증한다. 케이에스넷은 결제 인프라와 가맹점 원화 정산 연계를 맡고, 람다256은 온체인 정산 실행과 컴플라이언스 플랫폼을...",
+    "date": "Tue, 07 Jul 2026 13:50:00 +0900",
+    "link": "http://www.srtimes.kr/news/articleView.html?idxno=206926",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.58,
+        "prev_close": 8051.33,
+        "curr_close": 7440.75
+      }
+    ]
+  },
+  {
+    "title": "공정위, 전분당 4사 7년 가격담합 적발…&quot;7476억 역대 최대 과징금&quot;",
+    "description": "공정위에 따르면 임원급 회의에서 목표 가격을 정하면 실무 책임자들이 별도로 만나 환율과 원재료 가격 등 거래처에 제시할 가격 인상 근거를 맞춘 뒤 품목별 인상 폭과 적용 시기, 공문 발송 날짜까지 사전에...",
+    "date": "Tue, 07 Jul 2026 13:50:00 +0900",
+    "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=361725",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.58,
+        "prev_close": 8051.33,
+        "curr_close": 7440.75
+      }
+    ]
+  },
+  {
+    "title": "환율 1530원선 공방 박스권 지속",
+    "description": "원달러환율 7일 원·달러 환율이 1520원대 후반에서 1530원 사이의 박스권 흐름을 이어가고 있다. 사진=KTV 갈무리 원·달러 환율이 24시간 개장 이틀째 1520원대 후반 박스권을 유지하고 있다. 7일 서울 외환시장에서 원...",
+    "date": "Tue, 07 Jul 2026 13:46:00 +0900",
+    "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3068699",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.58,
+        "prev_close": 8051.33,
+        "curr_close": 7440.75
+      }
+    ]
+  },
+  {
+    "title": "고환율 속 외환시장 24시간 개방...부작용 없나?",
+    "description": "[주민근 / 삼성전자 파트장 : 환율의 변동성이 크게 돼도 기업 입장에서는 어떻게 손을 쓸 틈 없이 오전... 흡수해 환율 안정에 기여할 수 있지만 당장은 주의할 점이 있다고 말합니다. [서은숙 /상명대 경제금융학부 교수...",
+    "date": "Tue, 07 Jul 2026 13:46:00 +0900",
+    "link": "https://science.ytn.co.kr/program/view.php?mcd=0082&hcd=&key=202607071106436180",
+    "stocks": [
+      {
+        "name": "삼성전자",
+        "result": "하락",
+        "change_pct": -9.28,
+        "prev_close": 318000.0,
+        "curr_close": 288500.0
+      }
+    ]
+  },
+  {
+    "title": "GME Biz, 몽골(MNT)·유럽 SEPA·영국(GBP) 대상 결제대금지급 서비스 잇...",
+    "description": "GME Biz는 시중은행 대비 훨씬 저렴한 수수료와 우수한 환율을 앞세워 기업의 해외송금 비용 부담을 낮추는 한편, 직결제 네트워크를 통해 기존 방식보다 훨씬 빠른 속도로 자금을 지급하는 것이 특징이다. 특히...",
+    "date": "Tue, 07 Jul 2026 13:42:00 +0900",
+    "link": "https://www.etnews.com/20260707000267",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.58,
+        "prev_close": 8051.33,
+        "curr_close": 7440.75
+      }
+    ]
+  },
+  {
+    "title": "식탁 옥죈 밀약…전분 4社 과징금 7천476억원·담합 사상 최대",
+    "description": "4개 업체는 가격 변경의 경우 거래처의 저항을 최소화하기 위해 가격 변경의 폭과 시기, 가격 변경의 근거가 되는 환율, 원료가 등 공문에 담을 내용과 발송 시기도 구체적으로 합의했다.특히 전분당 품목별 목표 가격을...",
+    "date": "Tue, 07 Jul 2026 13:42:00 +0900",
+    "link": "https://www.kbsm.net/news/view.php?idx=525846",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.57,
+        "prev_close": 8051.33,
+        "curr_close": 7441.5
+      }
+    ]
+  },
+  {
+    "title": "[요즈음]현대차, 달콤하다",
+    "description": "과거에는 판매량과 영업이익, 환율 등이 기업가치를 결정하는 핵심 변수였다면 이제는 전기차와 소프트웨어, 자율주행, 인공지능(AI), 로보틱스 등 미래 성장동력이 더 중요한 평가 잣대가 되고 있다. 얼마나 많은...",
+    "date": "Tue, 07 Jul 2026 13:40:00 +0900",
+    "link": "https://www.asiatime.co.kr/article/20260707500259",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.57,
+        "prev_close": 8051.33,
+        "curr_close": 7441.5
+      }
+    ]
+  },
+  {
+    "title": "&quot;환불·수수료 불명확 안내&quot;...아고다에 과징금 24억",
+    "description": "[김미정 / 방미통위 조사기획총괄과장 : 후지불 결제 방식을 선택하는 경우, 5% 수수료가 추가됨에도 불구하고 이를 명확하게 고지하지 않고 마치 환율에 따라 조정이 있을 수 있는 것처럼 안내함으로써 이용자를...",
+    "date": "Tue, 07 Jul 2026 13:36:00 +0900",
+    "link": "https://science.ytn.co.kr/program/view.php?mcd=0082&hcd=&key=202607071103316415",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.57,
+        "prev_close": 8051.33,
+        "curr_close": 7441.5
+      }
+    ]
+  },
+  {
+    "title": "호텔·카지노 웃고 여행주는 숨고르기…레저주 차별화",
+    "description": "카지노와 복합리조트 업체는 외국인 관광객 증가가 실적으로 직결되는 구조인 반면 여행사는 항공권 가격과 패키지 수요, 환율 등 다양한 변수의 영향을 받는다. 이에 따라 실적 개선 속도가 빠른 기업과 단순 기대감에...",
+    "date": "Tue, 07 Jul 2026 13:32:00 +0900",
+    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=466222",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.57,
+        "prev_close": 8051.33,
+        "curr_close": 7441.5
+      }
+    ]
+  },
+  {
+    "title": "첫 국무회의 주재한 韓총리 &quot;허위조작정보 등 단호히 대응&quot;",
+    "description": "다만 &quot;물가, 고용, 환율, 금리의 변동성이 우려되기 떄문에 정부는 정책의 제1번 순위를 민생경제에 중심을... 특히 환율에 대해서는 &quot;고환율에 따른 중소기업 애로경감을 위해 기존 대책을 발표한 바고, 향후 금리상승에...",
+    "date": "Tue, 07 Jul 2026 13:32:00 +0900",
+    "link": "https://www.nocutnews.co.kr/news/6544278?utm_source=naver&utm_medium=article&utm_campaign=20260707013157",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.57,
+        "prev_close": 8051.33,
+        "curr_close": 7441.5
+      }
+    ]
+  },
+  {
+    "title": "중기부, 수출바우처 470억 투입…중소기업 1천200곳 추가 지원",
+    "description": "/사진=연합뉴스 중소벤처기업부는 고환율 장기화로 경영 부담이 커진 수출 중소기업을 지원하기 위해 오는... 중기부는 고환율로 경영 부담이 커진 수출기업을 집중 지원하고, 기존 수출바우처 참여기업 가운데 고환율...",
+    "date": "Tue, 07 Jul 2026 13:32:00 +0900",
+    "link": "http://www.issuenbiz.com/news/articleView.html?idxno=77717",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.57,
+        "prev_close": 8051.33,
+        "curr_close": 7441.5
+      }
+    ]
+  },
+  {
+    "title": "전분·전분당 제조사 넷 가격담합, 과징금 7476억",
+    "description": "특히 전분사들은 가격 변경 시 거래처의 저항을 줄이기 위해 인상 근거(환율·원료가 등), 공문 발송 시기, 품목별 목표가격까지 세부적으로 조율했다. 합의 후에는 각 사별로 공문을 순차적으로 발송하고, 실제 발송...",
+    "date": "Tue, 07 Jul 2026 13:30:00 +0900",
+    "link": "https://www.thereport.co.kr/news/articleView.html?idxno=89386",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.57,
+        "prev_close": 8051.33,
+        "curr_close": 7441.5
+      }
+    ]
+  },
+  {
+    "title": "'고환율 피해' 수출기업에…중기부, 470억원 지원",
+    "description": "고환율 장기화로 경영 부담이 커진 수출 중소기업을 지원하기 위해 중소벤처기업부가 470억원 규모를 지원한다. 중소벤처기업부는 수출바우처 3차 모집을 오는 8일부터 진행한다고 7일 밝혔다. 최근 고환율이...",
+    "date": "Tue, 07 Jul 2026 13:28:00 +0900",
+    "link": "https://www.widedaily.com/news/articleView.html?idxno=297141",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.57,
+        "prev_close": 8051.33,
+        "curr_close": 7441.5
+      }
+    ]
+  },
+  {
+    "title": "식품주 주가 함박웃음…K-푸드 수출 기대에 투자심리 개선",
+    "description": "해외 브랜드 경쟁력을 확보한 기업은 환율과 글로벌 소비 확대의 수혜를 받을 가능성이 높은 반면 내수 중심 업체는 원가 관리와 제품 가격 전략에 따라 실적 차이가 나타날 수 있다. 또한 프리미엄 제품 확대와 해외...",
+    "date": "Tue, 07 Jul 2026 13:28:00 +0900",
+    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=466221",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.57,
+        "prev_close": 8051.33,
+        "curr_close": 7441.5
+      }
+    ]
+  },
+  {
+    "title": "삼성운용 &quot;하반기 연금 투자 전략…글로벌+코리아 TDF 제시&quot;",
+    "description": "전용우 삼성자산운용 연금OCIO본부장은 &quot;연금투자는 장기 레이스에서 글로벌 분산 투자로 중심축을 잡으면서, 환율 리스크 없이 국내 자산의 사이클 변화를 포착해 실질 구매력을 유지하는 균형 잡힌 시각이...",
+    "date": "Tue, 07 Jul 2026 13:26:00 +0900",
+    "link": "http://www.newsdream.kr/news/articleView.html?idxno=114128",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.57,
+        "prev_close": 8051.33,
+        "curr_close": 7441.5
+      }
+    ]
+  },
+  {
+    "title": "골프웨어 상반기 결산, &quot;불황보다 양극화가 더 컸다&quot;",
+    "description": "올 상반기 백화점 골프웨어 시장은 경기 침체보다 소비 재편이 더 뚜렷했다. '프리미엄 소비 확대'와 '브랜드 양극화', '핵심 상권 중심 재편'이라는 세 가지 키워드로 요약된다. 시장은 더 이상 모든 브랜드가 함께 성장하는...",
+    "date": "Tue, 07 Jul 2026 13:34:00 +0900",
+    "link": "http://www.ktnews.com/news/articleView.html?idxno=147039",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.57,
+        "prev_close": 8051.33,
+        "curr_close": 7441.5
+      }
+    ]
+  },
+  {
+    "title": "GS건설 '운암자이포레나 퍼스티체', 이색 마케팅으로 지방 분양 한파 녹...",
+    "description": "주택산업연구원이 발표한 '아파트입주전망지수'에 따르면 올해 4월 기준 지방 아파트의 평균 입주율은 50.1%로, 새 아파트 2집 중 1집이 비어있는 심각한 주택 경기 침체를 보여주고 있다. 반면 '운암자이포레나 퍼스티체...",
+    "date": "Tue, 07 Jul 2026 13:34:00 +0900",
+    "link": "https://www.woodkorea.co.kr/news/articleView.html?idxno=90182",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.57,
+        "prev_close": 8051.33,
+        "curr_close": 7441.5
+      }
+    ]
+  },
+  {
+    "title": "8년 방치된 춘천 두산연수원 부지에 '신라 모노그램' 들어선다",
+    "description": "그동안 시는 공사 재개를 위해 두산 측과 지속적으로 협의를 이어왔으나 프로젝트파이낸싱(PF) 시장 위축과 건설경기 침체로 투자자 확보에 어려움을 겪으면서 장기간 답보 상태를 벗어나지 못했다. 시는 2023년과 2025년...",
+    "date": "Tue, 07 Jul 2026 13:31:00 +0900",
+    "link": "https://www.news1.kr/local/kangwon/6220219",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.57,
+        "prev_close": 8051.33,
+        "curr_close": 7441.5
+      }
+    ]
+  },
+  {
+    "title": "8년 방치 춘천 두산연수원, 호텔신라 손잡고 개발 재시동",
+    "description": "춘천시는 공사 재개를 위해 두산 측과 협의를 이어왔지만 부동산 프로젝트파이낸싱(PF) 시장 위축과 건설경기 침체로 투자자 확보에 어려움을 겪으며 사업은 오랫동안 답보에 머물렀다. 돌파구는 두 차례 건축허가 취소...",
+    "date": "Tue, 07 Jul 2026 13:26:00 +0900",
+    "link": "http://www.fnnews.com/news/202607070852579287",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.57,
+        "prev_close": 8051.33,
+        "curr_close": 7441.5
+      }
+    ]
+  },
+  {
+    "title": "양산시, 양산사랑카드 발행 목표 2700억으로 높인다",
+    "description": "경남 양산시는 고물가와 경기 침체로 어려움을 겪는 소상공인과 가계경제를 돕기 위해 지역화폐인 양산사랑카드의 올해 연간 발행 목표액을 당초 2300억 원에서 2700억원으로 400억원 상향한다고 7일 밝혔다. 이번...",
+    "date": "Tue, 07 Jul 2026 13:22:00 +0900",
+    "link": "https://www.newsis.com/view/NISX20260707_0003698973",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.57,
+        "prev_close": 8051.33,
+        "curr_close": 7441.5
+      }
+    ]
+  },
+  {
+    "title": "춘천 두산연수원 부지, 호텔신라 참여로 호텔·리조트 개발 본격화",
+    "description": "춘천시는 공사 재개를 위해 두산 측과 협의를 이어왔지만, PF 시장 위축과 건설경기 침체로 투자자 확보에 어려움을 겪으면서 사업 정상화가 지연됐다. 시는 사업 정상화를 위해 2023년과 2025년 두 차례 건축허가 취소...",
+    "date": "Tue, 07 Jul 2026 13:22:00 +0900",
+    "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5038309",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.57,
+        "prev_close": 8051.33,
+        "curr_close": 7441.5
+      }
+    ]
+  },
+  {
+    "title": "NH농협은행 전북본부, 전주 신촌상가 '만국기 거리' 조성",
+    "description": "이번 행사는 소비 위축과 경기 침체로 어려움을 겪는 지역 소상공인을 응원하고 상권에 새로운 볼거리를 제공해 시민들의 방문을 유도하기 위해 마련됐다. 장길환 NH농협은행 전북본부장은 &quot;만국기 거리가 지역 주민과...",
+    "date": "Tue, 07 Jul 2026 13:21:00 +0900",
+    "link": "https://www.nocutnews.co.kr/news/6544269?utm_source=naver&utm_medium=article&utm_campaign=20260707012058",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.57,
+        "prev_close": 8051.33,
+        "curr_close": 7441.5
+      }
+    ]
+  },
+  {
+    "title": "[김호이의 사람들] 김달진 관장, &quot;기억은 사라져도 기록은 남는다&quot; 아카...",
+    "description": "그는 최근의 불황이 미술시장만의 문제가 아니라 세계 경제와 국내 경기 침체가 맞물린 결과라고 분석했다. 그는 &quot;미술은 필수재가 아니라 경제 상황에 가장 민감하게 반응하는 분야&quot;라며 &quot;경기가 어려워질수록 작품...",
+    "date": "Tue, 07 Jul 2026 13:14:00 +0900",
+    "link": "https://www.abcn.kr/news/articleView.html?idxno=89183",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.57,
+        "prev_close": 8051.33,
+        "curr_close": 7441.5
+      }
+    ]
+  },
+  {
+    "title": "공공의 삶을 디자인하는 건축가, 도시와 사람을 잇는 공간 철학을 말하...",
+    "description": "최근 경기 침체가 장기화되면서 건축업계 전체가 위기를 맞고 있는 상황에 대해 현재 건축시장은 고금리와 공사비 상승, 각종 규제 강화라는 복합적인 어려움에 직면해 있다. 특히 중소 규모 건축사무소 입장에서는...",
+    "date": "Tue, 07 Jul 2026 13:14:00 +0900",
+    "link": "https://www.handmk.com/news/articleView.html?idxno=41128",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.57,
+        "prev_close": 8051.33,
+        "curr_close": 7441.5
+      }
+    ]
+  },
+  {
+    "title": "유통가 “빠른 것보다 편안한 것이 좋다”",
+    "description": "업계에서는 이러한 변화가 경기 침체와도 무관하지 않다고 분석한다. 불확실성이 커질수록 소비자는 화려한 경험보다 몸과 마음이 안정되는 소비를 선택하는 경향이 강해지고 있다는 것이다. 유행을 과시하기보다 오래...",
+    "date": "Tue, 07 Jul 2026 13:04:00 +0900",
+    "link": "https://www.naeil.com/news/read/594430?ref=naver",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.6,
+        "prev_close": 8051.33,
+        "curr_close": 7439.31
+      }
+    ]
+  },
+  {
+    "title": "&quot;홈플러스 정산 지연에 숨통 틔운다&quot;… KB국민은행, 피해 협력업체에 긴...",
+    "description": "가동했다&quot;라며 &quot;앞으로도 KB국민은행은 금융의 사회적 책임을 다하기 위해 경기 침체나 외부 충격으로 일시적 유동성 위기에 직면한 중소기업과 소상공인들의 든든한 동반자로서 상생 금융을 선도해 나갈 것&quot;이라고 말했다.",
+    "date": "Tue, 07 Jul 2026 13:00:00 +0900",
+    "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=126586",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.6,
+        "prev_close": 8051.33,
+        "curr_close": 7439.31
+      }
+    ]
+  },
+  {
+    "title": "HJ중공업, 부산 벡스코 제3전시장 건립사업 수주",
+    "description": "최근 건설 경기 침체 속에서 나온 대형 공공 물량인 만큼 입찰 전부터 국내 대형·중견 건설사들의 뜨거운 관심을 받아왔다. HJ중공업은 올해 상반기 △서부산 행정복합타운 건립공사(637억원) △제천~영월간 고속국도...",
+    "date": "Tue, 07 Jul 2026 12:40:00 +0900",
+    "link": "https://www.arunews.com/news/articleView.html?idxno=64638",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.6,
+        "prev_close": 8051.33,
+        "curr_close": 7439.31
+      }
+    ]
+  },
+  {
+    "title": "HJ중공업, 2572억 규모 '부산 벡스코 제3전시장' 수주... 기술평가서 우...",
+    "description": "최근 건설 경기 침체 속에서 나온 대형 공공 물량인 만큼 입찰 전부터 국내 대형·중견 건설사들의 관심이 높았다. HJ중공업은 올해 상반기 서부산 행정복합타운 건립공사(637억원)와 제천~영월 간 고속국도 제3공구...",
+    "date": "Tue, 07 Jul 2026 12:34:00 +0900",
+    "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=355600",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.6,
+        "prev_close": 8051.33,
+        "curr_close": 7439.31
+      }
+    ]
+  },
+  {
+    "title": "전분당 짬짜미 4사 역대 최대 7천476억 과징금",
+    "description": "공정위는 코로나19 등으로 경기가 침체됐던 시기에 원가 부담을 거래처와 소비자에게 떠넘긴 담합이라고 판단했다. 공정위에 따르면 4개사는 2018년 5월~2025년 10월까지 7년 5개월 동안 모두 13차례에 걸쳐 전분·전분당...",
+    "date": "Tue, 07 Jul 2026 12:32:00 +0900",
+    "link": "https://www.dt.co.kr/article/12071554?ref=naver",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.6,
+        "prev_close": 8051.33,
+        "curr_close": 7439.31
+      }
+    ]
+  },
+  {
+    "title": "[10대 경산시의회] 김인수 의장 &quot;시민행복 경산 열겠다&quot;",
+    "description": "현재 경산시가 직면한 경기침체와 저출산, 고령화로 인한 지방 소멸 위기를 정면으로 돌파하겠다는 취지다. 김 의장은 경산지역 내에 13개 대학이 밀집해 있는 최고의 교육 환경을 적극적으로 활용하겠다는 방안도...",
+    "date": "Tue, 07 Jul 2026 12:20:00 +0900",
+    "link": "https://www.idaegu.com/news/articleView.html?idxno=664149",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.6,
+        "prev_close": 8051.33,
+        "curr_close": 7439.31
+      }
+    ]
+  },
+  {
+    "title": "여수시, 소상공인 융자 이자 지원 3분기 시행…최대 5천만원 지원",
+    "description": "여수시 관계자는 &quot;경기침체와 소비위축 등으로 어려움을 겪고 있는 소상공인의 자금 부담을 덜고 안정적인 경영 기반을 마련하는 데 도움이 되길 바란다&quot;며 &quot;앞으로도 소상공인이 체감할 수 있는 실질적인 금융지원과...",
+    "date": "Tue, 07 Jul 2026 12:20:00 +0900",
+    "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5038231",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.6,
+        "prev_close": 8051.33,
+        "curr_close": 7439.31
+      }
+    ]
+  },
+  {
+    "title": "삼척시, 삼척사랑카드 결제수수료 전액 지원…소상공인 부담 완화",
+    "description": "강원 삼척시가 경기 침체와 소비 위축으로 어려움을 겪는 소상공인의 경영 부담을 덜기 위해 '2026년 삼척사랑카드 가맹점 결제수수료 소상공인 지원사업'을 추진한다고 7일 밝혔다. 지원 대상은 삼척사랑카드 가맹점에...",
+    "date": "Tue, 07 Jul 2026 12:20:00 +0900",
+    "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5038275",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.6,
+        "prev_close": 8051.33,
+        "curr_close": 7439.31
+      }
+    ]
+  },
+  {
+    "title": "부동산 거품 붕괴는 수출 주도형 경제의 숙명일까? 경상흑자의 역설",
+    "description": "경기침체가 심각해지자 일본 정부는 기준금리를 5차례나 연속으로 내렸고, 이는 시중 유동성을 더 증가시키면서 거품을 더 키웠다. 수출 감소로 인한 경기침체는 지속됐지만, 자산가격 거품은 막아야 했던 일본 정부는...",
+    "date": "Tue, 07 Jul 2026 12:06:00 +0900",
+    "link": "https://www.thescoop.co.kr/news/articleView.html?idxno=310821",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.6,
+        "prev_close": 8051.33,
+        "curr_close": 7439.31
+      }
+    ]
+  },
+  {
+    "title": "여수지역 소상공인 융자금 지원...업체당 최대 5천만원 융자",
+    "description": "여수시 관계자는 &quot;경기침체와 소비위축 등으로 어려움을 겪고 있는 소상공인의 자금 부담을 덜고 안정적인 경영 기반을 마련하는 데 도움이 되길 바란다&quot;며...",
+    "date": "Tue, 07 Jul 2026 12:06:00 +0900",
+    "link": "http://www.breaknews.com/1219726",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.6,
+        "prev_close": 8051.33,
+        "curr_close": 7439.31
+      }
+    ]
+  },
+  {
+    "title": "벼랑 끝 여수국가산단…이차전지 소부장 특화단지가 마지막 승부수②",
+    "description": "국가 수출을 견인했던 석유화학 산업은 글로벌 경기 침체와 중국의 대규모 증설, 공급과잉이라는 거센 파고를 넘지 못하고 있다. 공장 가동률은 떨어지고 수익성은 악화되면서 협력업체와 지역 상권까지 어려움이...",
+    "date": "Tue, 07 Jul 2026 11:44:00 +0900",
+    "link": "https://www.polinews.co.kr/news/articleView.html?idxno=736241",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.6,
+        "prev_close": 8051.33,
+        "curr_close": 7439.31
+      }
+    ]
+  },
+  {
+    "title": "가계 여윳돈 79조원 '역대급'…기업 순자금도 사상 최대",
+    "description": "한국은행은 이번 통계가 연초 상여금 유입과 기업 실적 개선, 주식시장 강세 등이 맞물리면서 가계와 기업 모두 금융자산을 늘린 모습을 보여준다고 분석했다. 특히 가계 자금이 예금보다 증권시장으로 이동하는...",
+    "date": "Tue, 07 Jul 2026 13:50:00 +0900",
+    "link": "http://www.srtimes.kr/news/articleView.html?idxno=206950",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.6,
+        "prev_close": 8051.33,
+        "curr_close": 7439.31
+      }
+    ]
+  },
+  {
+    "title": "가계 여윳돈 80兆···주식·ETF로 대거 몰렸다",
+    "description": "실제 상장기업 실적을 보면 당기순이익이 31조원에서 111조4000억원으로 3.5배 이상 커졌다. 일반정부 순자금조달 금액은 19조원에서 23조3000억원으로 확대됐다. 정부 지출이 수입보다 더 크게 증가한 결과다....",
+    "date": "Tue, 07 Jul 2026 13:44:00 +0900",
+    "link": "http://www.fnnews.com/news/202607070809423903",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.6,
+        "prev_close": 8051.33,
+        "curr_close": 7439.31
+      }
+    ]
+  },
+  {
+    "title": "분석가 “스토리지 칩주, 실적 호조에도 주가 압박 우려”",
+    "description": "그는 스토리지 칩주가 과거 엔비디아처럼 기업 실적은 계속 개선되지만 기대가 이미 주가에 반영돼 주가가 장기간 횡보하는 흐름을 보일 가능성을 우려한다고 덧붙였다.",
+    "date": "Tue, 07 Jul 2026 13:42:00 +0900",
+    "link": "https://www.tokenpost.kr/news/breaking/375573",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.6,
+        "prev_close": 8051.33,
+        "curr_close": 7439.31
+      }
+    ]
+  },
+  {
+    "title": "블룸버그 &quot;삼성 호실적에도 반도체주 급락…AI 랠리 차익실현 확산&quot;",
+    "description": "밴티지 글로벌 프라임의 헤베 첸 선임시장분석가는 “메모리 가격 상승이 이어지거나 다음 반도체 기업 실적이 강하게 나오면 자금이 다시 주도주로 유입될 수 있다”고 봤다. AI라는 장기 성장 기대는 여전히...",
+    "date": "Tue, 07 Jul 2026 13:40:00 +0900",
+    "link": "https://www.ajunews.com/view/20260707133600289",
+    "stocks": [
+      {
+        "name": "삼성전자",
+        "result": "하락",
+        "change_pct": -9.28,
+        "prev_close": 318000.0,
+        "curr_close": 288500.0
+      }
+    ]
+  },
+  {
+    "title": "상장 제약·바이오 1Q 평균 유보율 코스피 2324.16%·코스닥 2549.03%",
+    "description": "아울러 SK바이오팜, 현대약품, 삼성에피스홀딩스 등 견조한 실적을 거둔 기업들이 상위권에 대거 포진하며 뚜렷한 재무구조 개선을 보여주었다. 주요 상승 기업들의 순위와 증감%p를 살펴보면 1위...",
+    "date": "Tue, 07 Jul 2026 13:28:00 +0900",
+    "link": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=329472",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.6,
+        "prev_close": 8051.33,
+        "curr_close": 7439.31
+      }
+    ]
+  },
+  {
+    "title": "'목표수익률 7%' 하나 리레이팅코리아 목표전환형 제4호 펀드 출시",
+    "description": "하나자산운용 마케팅 관계자는 &quot;지난달 국내 주식시장은 수급 등 펀더멘털 외적인 요인으로 변동성이 크게 확대되는 구간이었다&quot;며 &quot;이달에는 어닝 시즌을 맞아 기업 실적에 대한 기대감이 높아질 전망&quot;이라고 말했다.",
+    "date": "Tue, 07 Jul 2026 13:26:00 +0900",
+    "link": "https://www.mt.co.kr/stock/2026/07/07/2026070710534499879",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.6,
+        "prev_close": 8051.33,
+        "curr_close": 7439.31
+      }
+    ]
+  },
+  {
+    "title": "에이아이코리아, 20억 규모 자사주 취득 신탁계약",
+    "description": "AI 기반 신사업 확대를 통해 실적 성장과 기업가치 제고를 동시에 추진하겠다&quot;고 말했다. 그는 이어 &quot;앞으로도 시장과 적극적으로 소통하며 다양한 주주친화 정책을 추진해 주주와 함께 성장하는 기업이 되겠다&quot;고 덧붙였다.",
+    "date": "Tue, 07 Jul 2026 13:23:00 +0900",
+    "link": "https://www.newsis.com/view/NISX20260707_0003698990",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.6,
+        "prev_close": 8051.33,
+        "curr_close": 7439.31
+      }
+    ]
+  },
+  {
+    "title": "[진주 24시] 진주시, 우주항공 국가산단 활성화 속도…&quot;투자하기 좋은 ...",
+    "description": "피해기업의 지원 기준은 중동 지역 수출 실적(직간접)이 있는 기업, 비교 시점 대비 매출액이 20% 이상 감소한 기업, 비교 시점 대비 부가율이 5% 이상 감소한 기업, 직접 수출입 실적이 총매출액의 20% 이상인 기업 요건을...",
+    "date": "Tue, 07 Jul 2026 13:23:00 +0900",
+    "link": "https://www.sisajournal.com/news/articleView.html?idxno=378928",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.62,
+        "prev_close": 8051.33,
+        "curr_close": 7438.1
+      }
+    ]
+  },
+  {
+    "title": "나스닥 상장 앞둔 SK하이닉스…증권신고서에 담긴 투자 위험 요인?",
+    "description": "끝으로 SK하이닉스는 대규모 설비 투자 이후에 발생할 수 있는 공급 과잉을 우려하며 생산시설 확충을 마친 뒤 수요가 둔화될 경우 기업 실적에 부정적인 영향을 미칠 수 있다고 언급했습니다. 메모리 반도체 사업이 전체...",
+    "date": "Tue, 07 Jul 2026 13:10:00 +0900",
+    "link": "https://news.jtbc.co.kr/article/NB12306979?influxDiv=NAVER",
+    "stocks": [
+      {
+        "name": "SK하이닉스",
+        "result": "하락",
+        "change_pct": -9.86,
+        "prev_close": 2343000.0,
+        "curr_close": 2112000.0
+      }
+    ]
+  },
+  {
+    "title": "인천테크노파크, 인천 중소기업 수출 지원…긴급 바우처 모집",
+    "description": "지원 대상은 인천에 소재한 중소기업 34개사 내외로, 2025년부터 2026년 2월까지 중동 수출 실적을 보유한 기업이나 중동 정세 악화로 인한 수출 피해 사실이 확인된 기업이다. 선정된 기업에는 기업당 최대 1000만원 한도...",
+    "date": "Tue, 07 Jul 2026 13:06:00 +0900",
+    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3628620",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.62,
+        "prev_close": 8051.33,
+        "curr_close": 7438.1
+      }
+    ]
+  },
+  {
+    "title": "삼성전자, 2분기 영업이익 89조 '역대급'…그런데 주가는 왜 떨어졌나",
+    "description": "이번 실적은 메타발 AI 투자 둔화 논란 이후 처음 공개된 반도체 기업의 실적이라는 점에서 시장의 관심이 쏠렸다. 메타가 남는 컴퓨팅 자원을 활용한 클라우드 사업 진출 계획을 내놓으면서 빅테크의 AI 투자가...",
+    "date": "Tue, 07 Jul 2026 13:02:00 +0900",
+    "link": "https://www.todayeconomic.com/news/article.html?no=31221",
+    "stocks": [
+      {
+        "name": "삼성전자",
+        "result": "하락",
+        "change_pct": -9.28,
+        "prev_close": 318000.0,
+        "curr_close": 288500.0
+      }
+    ]
+  },
+  {
+    "title": "AI 상승장, 반도체→클라우드 옮겨가나",
+    "description": "이제는 2분기 실적에서 클라우드 기업들의 투자 지속 여부, AI 투자수익률, 주문 가시성이 확인돼야 한다. 기대가 유지되면 장비주는 중장기 매수 후보가 될 수 있지만, 단기 추격 매수에는 부담이 커졌다. 이 틈을...",
+    "date": "Tue, 07 Jul 2026 13:02:00 +0900",
+    "link": "https://www.naeil.com/news/read/594398?ref=naver",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.62,
+        "prev_close": 8051.33,
+        "curr_close": 7438.1
+      }
+    ]
+  },
+  {
+    "title": "반도체가 키운 기업 여윳돈 '역대 최대'... 가계 자금 증시 이동",
+    "description": "기업이 실적 개선으로 여유자금을 확보하는 동시에 생산·거래 확대에 필요한 운전자금 조달도 병행한 흐름으로 해석된다. 김용현 한국은행 경제통계1국 자금순환팀장은 &quot;반도체 기업들의 영업이익이 급증하면서...",
+    "date": "Tue, 07 Jul 2026 12:58:00 +0900",
+    "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=897546",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.62,
+        "prev_close": 8051.33,
+        "curr_close": 7438.1
+      }
+    ]
+  },
+  {
+    "title": "삼성전자, 세계 1위 기업 됐다…2분기 영업익 89조·매출 171조 달성",
+    "description": "지난 1분기 인공지능 메모리 슈퍼사이클에 힘입어 역대 최대 분기 실적을 경신하며 글로벌 톱3 반열에 오른 데 이어 불과 한 분기 만에 역대 최대 실적을 또 한번 갈아치우고 분기 실적 세계 1위 기업에 도전하게 된다....",
+    "date": "Tue, 07 Jul 2026 12:54:00 +0900",
+    "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=4022885",
+    "stocks": [
+      {
+        "name": "삼성전자",
+        "result": "하락",
+        "change_pct": -9.28,
+        "prev_close": 318000.0,
+        "curr_close": 288500.0
+      }
+    ]
+  },
+  {
+    "title": "'설명하는 투자 AI' 나온다...LG, 코스콤과 손잡고 엑사원 기반 한국 증...",
+    "description": "단순히 상승·하락 가능성을 제시하는 데 그치지 않고 기업 실적, 시장 흐름, 거시경제 지표 등을 종합적으로 분석한다. LG AI연구원은 그동안 리튬 가격 예측과 수요 예측, AI 기반 ETF 등 다양한 분야에서 예측 AI를...",
+    "date": "Tue, 07 Jul 2026 12:50:00 +0900",
+    "link": "http://www.updownnews.co.kr/news/articleView.html?idxno=317863",
+    "stocks": [
+      {
+        "name": "코스피",
+        "result": "하락",
+        "change_pct": -7.62,
+        "prev_close": 8051.33,
+        "curr_close": 7438.1
+      }
+    ]
+  },
+  {
+    "title": "2년치를 석 달 만에 벌었는데 ‘삼전·하닉’, 주가는 왜? [뉴스in뉴스]",
+    "description": "앞으로 TSMC, ASML 같은 해외 기업부터 SK 하이닉스 같은 국내 기업 실적이 줄줄이 나올텐데, 다 확인이 돼야겠고요. 그러는 와중에 진짜 확인할 숫자들이 월말에 나옵니다. 그러니까 마이크로소프트나 구글 같은 미국...",
+    "date": "Tue, 07 Jul 2026 12:43:00 +0900",
+    "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8604148&ref=A",
+    "stocks": [
+      {
+        "name": "삼성전자",
+        "result": "하락",
+        "change_pct": -9.28,
+        "prev_close": 318000.0,
+        "curr_close": 288500.0
       },
       {
         "name": "SK하이닉스",
         "result": "하락",
-        "change_pct": -2.27,
-        "prev_close": 2425000.0,
-        "curr_close": 2370000.0
-      }
-    ]
-  },
-  {
-    "title": "코스피, 외인·기관 '팔자'에 하락세",
-    "description": "6일 코스피는 전장보다 98.48포인트(1.22%) 오른 8,186.82에, 코스닥지수는 2.01포인트(0.23%) 내린 866.40에 개장했다/사진=연합뉴스 코스피가 장초반 2% 상승했으나 다시 하락세로 돌아섰다. 반면 삼성전자 실적...",
-    "date": "Mon, 06 Jul 2026 13:58:00 +0900",
-    "link": "http://www.issuenbiz.com/news/articleView.html?idxno=77678",
-    "stocks": [
-      {
-        "name": "삼성전자",
-        "result": "상승",
-        "change_pct": 1.62,
-        "prev_close": 309500.0,
-        "curr_close": 314500.0
-      }
-    ]
-  },
-  {
-    "title": "&quot;꿈의 1만피 온다&quot;…여의도 고수들이 꼽은 무조건 담을 종목",
-    "description": "‘한경 펀드매니저 서베이’에서 국내 주요 자산운용사의 펀드매니저들은 코스피지수가 3개월 내 9600... 28일 한경 펀드매니저 서베이에 응답한 105명의 펀드매니저 중 32.4%는 향후 3개월 내 코스피지수 상단이 ‘10...",
-    "date": "Mon, 06 Jul 2026 13:56:00 +0900",
-    "link": "https://www.hankyung.com/article/2026070671641",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.69,
-        "prev_close": 8088.34,
-        "curr_close": 8032.9
-      }
-    ]
-  },
-  {
-    "title": "[공시 Pick] 일성건설, 삼성전자 수주에 상한가…'AI 메가 프로젝트'까지...",
-    "description": "6일 한국거래소에 따르면 일성건설은 이날 오후 1시 34분 현재 코스피시장에서 전장 대비 478원(29.94%) 오른 2085원에 거래 중이다. 주가는 전장 대비 2원(0.12%) 내린 1605원으로 출발했지만 삼성전자 공사 수주 소식이...",
-    "date": "Mon, 06 Jul 2026 13:54:00 +0900",
-    "link": "https://www.news2day.co.kr/article/20260706500076",
-    "stocks": [
-      {
-        "name": "삼성전자",
-        "result": "상승",
-        "change_pct": 1.62,
-        "prev_close": 309500.0,
-        "curr_close": 314500.0
-      }
-    ]
-  },
-  {
-    "title": "[서울데이터랩]코스피 시총 상위주 혼조…반도체·2차전지 약세, 자동차...",
-    "description": "6일 오후 12시 20분 기준 코스피 시가총액 상위 종목들은 업종별로 엇갈린 흐름을 보이고 있다. 반도체와 2차전지, 바이오 일부 종목이 약세를 나타내는 반면 자동차와 금융, 일부 지주·상사주는...",
-    "date": "Mon, 06 Jul 2026 13:54:00 +0900",
-    "link": "https://www.seoul.co.kr/news/economy/securities/2026/07/06/20260706500101?wlog_tag3=naver",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.66,
-        "prev_close": 8088.34,
-        "curr_close": 8034.82
-      }
-    ]
-  },
-  {
-    "title": "한국투자증권, 무신사와 손잡고 MZ 공략...투자대회·주식 증정 이벤트...",
-    "description": "무신사 앱에서 이벤트를 신청하면 선착순 2만명에게 코스피200 구성 종목 또는 주요 ETF 가운데 1주를... 참여하면 코스피200 구성 종목 1+1주 혜택까지 받을 수 있다. 한국투자증권 곽진  eBiz본부장은 투자도 하나의...",
-    "date": "Mon, 06 Jul 2026 13:52:00 +0900",
-    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=465824",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.66,
-        "prev_close": 8088.34,
-        "curr_close": 8034.82
-      }
-    ]
-  },
-  {
-    "title": "'삼전닉스 ETF' 후폭풍…한은 경고에 당국 책임론까지",
-    "description": "안 의원은 &quot;코스피가 사실상 삼성전자와 SK하이닉스 두 종목 중심으로 움직이는 상황에서 단일종목... 이달 초 기준 삼성전자와 SK하이닉스의 시가총액 비중은 코스피의 절반을 웃돌고 거래대금 비중도 60%를 넘는다....",
-    "date": "Mon, 06 Jul 2026 13:52:00 +0900",
-    "link": "https://www.kbanker.co.kr/news/articleView.html?idxno=225365",
-    "stocks": [
-      {
-        "name": "삼성전자",
-        "result": "상승",
-        "change_pct": 1.62,
-        "prev_close": 309500.0,
-        "curr_close": 314500.0
-      },
-      {
-        "name": "SK하이닉스",
-        "result": "하락",
-        "change_pct": -2.14,
-        "prev_close": 2425000.0,
-        "curr_close": 2373000.0
-      }
-    ]
-  },
-  {
-    "title": "코스닥 상장사 CS, 미래정보기술 품는다…인수자금 전액 확보 [시그널]",
-    "description": "지난해 매출액 341억 원, 영업이익 23억 원을 기록했다. CS 관계자는 “이번 인수금융은 낮은 금리로 장기 차입이 가능한 구조”라며 “인수 자금을 모두 확보해 예정 시일에 인수 거래를 종결할 예정”이라고 말했다.",
-    "date": "Mon, 06 Jul 2026 14:10:00 +0900",
-    "link": "https://www.sedaily.com/article/20064224?ref=naver",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.66,
-        "prev_close": 8088.34,
-        "curr_close": 8034.82
-      }
-    ]
-  },
-  {
-    "title": "정책자금 받아 가맹점주에 고금리 대출한 명륜당, 공정위 심판대에",
-    "description": "연 4.6% 저금리로 받아 가맹점주에 연 12~18% 고금리 대출 공정위 &quot;대부업체들, 217억원의 경제적 이익 누렸다 판단&quot; 명륜진사갈비를 운영하는 명륜당이 정부의 정책자금을 받아 자신이 설립한 대부업체에 저리로 제공한...",
-    "date": "Mon, 06 Jul 2026 14:10:00 +0900",
-    "link": "https://www.sisajournal.com/news/articleView.html?idxno=378818",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.66,
-        "prev_close": 8088.34,
-        "curr_close": 8034.82
-      }
-    ]
-  },
-  {
-    "title": "캠코-IBK기업은행, 부울경 중소기업에 저금리 자금 지원 확대",
-    "description": "수혜대상 기업 최대 2.2%p 금리 인하 혜택 캠코(한국자산관리공사)는 지난 3일 IBK기업은행과 부산·울산·경남지역 중소기업 지원을 위한 '동반성장 업무 협약식'을 체결했다고 6일 밝혔다. 이번 협약은 고금리 기조...",
-    "date": "Mon, 06 Jul 2026 14:09:00 +0900",
-    "link": "https://www.yna.co.kr/view/AKR20260706092300002?input=1195m",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.66,
-        "prev_close": 8088.34,
-        "curr_close": 8034.82
-      }
-    ]
-  },
-  {
-    "title": "솔라나, 비트코인 가격 조정 시 매수 기회로 주목",
-    "description": "일부 영상 콘텐츠에서는 솔라나가 FTX, 금리, 채권(TLT) 등과 함께 언급되며 광범위한 암호화폐 전략 및 거시경제 조건 논의의 일부로 다뤄졌다. 그러나 구체적인 가격 움직임이나 생태계 변화에 대한 세부 분석은...",
-    "date": "Mon, 06 Jul 2026 14:08:00 +0900",
-    "link": "https://www.tokenpost.kr/news/cryptocurrency/375298",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.66,
-        "prev_close": 8088.34,
-        "curr_close": 8034.82
-      }
-    ]
-  },
-  {
-    "title": "캠코·IBK기업은행, 부울경 중소기업에 210억원 저금리 대출",
-    "description": "금리 감면폭 최대 2.2%포인트로 확대…미래 첨단·혁신산업 기업까지 대상 넓혀  장기화되는 고금리 기조와 내수 부진으로 지역 기반 중소기업들의 자금 조달 여건이 악화되면서, 정책금융기관과 국책은행을 중심으로 한...",
-    "date": "Mon, 06 Jul 2026 14:06:00 +0900",
-    "link": "http://www.srtimes.kr/news/articleView.html?idxno=206851",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.66,
-        "prev_close": 8088.34,
-        "curr_close": 8034.82
-      }
-    ]
-  },
-  {
-    "title": "위메이드마저 중국 품으로…흔들리는 'K-게임' 주권",
-    "description": "전 세계적인 금리 인상과 투자 시장의 위축, 신작 게임 개발 비용의 상승으로 국내 중소·중견 개발사들은 만성적인 제작비 조달 난항에 시달리고 있다. 이러한 국면에서 높은 경영권 프리미엄을 동반한 대규모 자본...",
-    "date": "Mon, 06 Jul 2026 14:06:00 +0900",
-    "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=848455",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.66,
-        "prev_close": 8088.34,
-        "curr_close": 8034.82
-      }
-    ]
-  },
-  {
-    "title": "마치 존재한 적 없었던 것처럼...순식간에 사라진 프로야구팀",
-    "description": "자금 시장에 돈이 마르고 금리가 오르고 대출 상환 압박이 가중되기 시작한 것은 당연한 순서였다. 그리고 특히 제2금융권에서 조달한 부채가 많던 쌍방울 그룹이 부도를 낸 것은, 레이더스가 삼성과의 준플레이오프...",
-    "date": "Mon, 06 Jul 2026 14:06:00 +0900",
-    "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003247710&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-    "stocks": [
-      {
-        "name": "삼성전자",
-        "result": "상승",
-        "change_pct": 1.53,
-        "prev_close": 309500.0,
-        "curr_close": 314250.0
-      }
-    ]
-  },
-  {
-    "title": "계속 떨어지는 금값 13% 하락..美 금리에 인상 '악재'",
-    "description": "이처럼 금값이 계속적으로 폭락하는 이유는 한마디로 위험이라는 호재보다 금리라는 악재가 더 크기 때문이다. 금은 아무리 오래 들고 있어도 이자를 한 푼도 주지 않는 대표적인 무이자 자산입니다. 그래서 금리가...",
-    "date": "Mon, 06 Jul 2026 14:06:00 +0900",
-    "link": "https://www.datasom.co.kr/news/articleView.html?idxno=209107",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.66,
-        "prev_close": 8088.34,
-        "curr_close": 8034.82
-      }
-    ]
-  },
-  {
-    "title": "이란 전쟁 후폭풍…전세계 고금리 길어지나",
-    "description": "이란 전쟁으로 인해 전세계 기준금리가 당초 예상보다 높은 수준에서 장기간 유지될 것이라는 전망이... 중앙은행의 금리 인하 여력이 크게 줄어들었다는 분석이다. 케빈 워시 연방준비제도 의장. (사진=AFP)...",
-    "date": "Mon, 06 Jul 2026 14:04:00 +0900",
-    "link": "https://www.edaily.co.kr/news/newspath.asp?newsid=03798246645511896",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.66,
-        "prev_close": 8088.34,
-        "curr_close": 8034.82
-      }
-    ]
-  },
-  {
-    "title": "미래에셋증권, 매도담보대출·미수연체이자 인하...투자자 금융비용 부...",
-    "description": "이번 금리 조정으로 단기 자금 활용에 따른 비용 부담이 줄어들 것으로 회사는 보고 있다. 현금미수금 연체이자율 인하 역시 미수 발생 고객의 추가 금융비용을 경감하고 시장 변동성 국면에서 발생할 수 있는 부담을...",
-    "date": "Mon, 06 Jul 2026 14:04:00 +0900",
-    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=465874",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.66,
-        "prev_close": 8088.34,
-        "curr_close": 8034.82
-      }
-    ]
-  },
-  {
-    "title": "[더벨][인사이드 헤지펀드] 유니스토리운용, 채권 펀드 청산…혼합형 신...",
-    "description": "금리 변동성에 대한 대응력을 높이고 채권형 펀드 특유의 운용 제약을 해소하기 위한 행보다. 2일... 금리 변동기에 매우 유용한 자산임에도 채권형 펀드에서는 편입 비중을 높이기 어렵다. 반면 혼합자산집합투자기구는...",
-    "date": "Mon, 06 Jul 2026 14:02:00 +0900",
-    "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607020957304960104579",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.66,
-        "prev_close": 8088.34,
-        "curr_close": 8034.82
-      }
-    ]
-  },
-  {
-    "title": "골드만 &quot;엔화 1년 뒤 달러당 165엔&quot;…엔 캐리트레이드 재개 추천",
-    "description": "카렌 라이히고트 피시먼 골드만삭스 전략가는 &quot;일본의 재정 부담과 미국 국채금리의 고공행진, 일본은행(BOJ)의 점진적 금리 인상 기조를 고려하면 엔화는 저평가돼 있음에도 약세 압력이 지속될 것&quot;이라고 분석했다....",
-    "date": "Mon, 06 Jul 2026 14:02:00 +0900",
-    "link": "https://www.news1.kr/world/international-economy/6218879",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.66,
-        "prev_close": 8088.34,
-        "curr_close": 8034.82
-      }
-    ]
-  },
-  {
-    "title": "원·달러 환율 1,529.8원…강달러 기조 속 1,520원대 후반 유지",
-    "description": "특히 미국의 기준금리 인하 시기와 국내외 경제지표 발표 결과에 따라 환율 방향성이 결정될 가능성이 크다는 분석이다. 시장 전문가들은 수입 기업의 환율 부담이 이어지는 반면, 수출 기업에는 우호적인...",
-    "date": "Mon, 06 Jul 2026 14:02:00 +0900",
-    "link": "https://www.job-post.co.kr/news/articleView.html?idxno=220162",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.66,
-        "prev_close": 8088.34,
-        "curr_close": 8034.82
-      }
-    ]
-  },
-  {
-    "title": "금값 고점 행진 이어질까…순금 한 돈 90만원 유지",
-    "description": "국제 금값은 글로벌 금리 인하 기대와 안전자산 선호 심리가 이어지면서 높은 수준을 유지하고 있으며, 국내 금 시세 역시 이러한 흐름을 반영해 고점권에서 등락을 이어가는 모습이다. 시장에서는 미국의...",
-    "date": "Mon, 06 Jul 2026 14:00:00 +0900",
-    "link": "https://www.job-post.co.kr/news/articleView.html?idxno=220161",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.56,
-        "prev_close": 8088.34,
-        "curr_close": 8042.91
-      }
-    ]
-  },
-  {
-    "title": "제주시 지역농어촌진흥기금 융자 신청 접수",
-    "description": "이번 융자는 연 0.7% 금리로 제공된다. 상환 조건은 운전자금이 2년 이내 상환·1회에 한해 2년 연장 가능, 시설자금은 3년 거치 후 5년 균분상환, 농수산물 수매자금은 1년 이내 상환이다. 이번 하반기 융자부터는...",
-    "date": "Mon, 06 Jul 2026 14:00:00 +0900",
-    "link": "http://www.samdailbo.com/news/articleView.html?idxno=267088",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.56,
-        "prev_close": 8088.34,
-        "curr_close": 8042.91
-      }
-    ]
-  },
-  {
-    "title": "&quot;시장 변동성에 대응&quot;...미래에셋, 매도담보대출·미수연체이자 이자율...",
-    "description": "매도담보대출은 시행일 이후 신규 대출부터 새로운 금리가 적용되며, 현금미수금 연체이자율은 기존 연체 고객을 포함해 시행일부터 일괄 적용된다. 미래에셋증권 관계자는 &quot;시장 불확실성이 지속되는 상황에서 고객이...",
-    "date": "Mon, 06 Jul 2026 13:58:00 +0900",
-    "link": "http://www.fnnews.com/news/202607061258330787",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.56,
-        "prev_close": 8088.34,
-        "curr_close": 8042.91
-      }
-    ]
-  },
-  {
-    "title": "미래에셋증권, '고객 보호' 리스크 관리 고삐...증거금률↑·대출이자 부...",
-    "description": "이번 금리 인하는 앞서 진행된 선제적 리스크 관리 조치의 연장선상으로 보인다. 미래에셋증권은 지난 1일부터 국내 주식시장의 변동성 확대에 대응해 증거금률을 상향 조정한 바 있다. 증거금률 20%·30% 적용 종목→40...",
-    "date": "Mon, 06 Jul 2026 13:58:00 +0900",
-    "link": "https://www.pointe.co.kr/news/articleView.html?idxno=81444",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.56,
-        "prev_close": 8088.34,
-        "curr_close": 8042.91
-      }
-    ]
-  },
-  {
-    "title": "한국자산매입 ‘헷지했지’, 7월 신규 부동산 보호단지 공개",
-    "description": "해당 시스템은 실거래가, 분양가, 공시지가, 금리, 공급 및 수급 현황, 인구 이동 등 가격·거시 데이터와 함께 임대수요, 생활 인프라, 주거 선호도 등 250여 개 이상의 지표를 실시간으로 교차 분석한다. 이를 기반으로...",
-    "date": "Mon, 06 Jul 2026 13:56:00 +0900",
-    "link": "https://www.sentv.co.kr/article/view/sentv202607060077",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.56,
-        "prev_close": 8088.34,
-        "curr_close": 8042.91
-      }
-    ]
-  },
-  {
-    "title": "외환시장 24시간 시대 개막…&quot;원화 글로벌 도약 위한 출발&quot;",
-    "description": "다만 주간거래 종가 환율과 매매기준율(MAR)은 당분간 오후 3시30분 기준을 유지한다. 결제는 은행 영업일에... 다만 심야 시간대에는 거래량이 적어 외부 충격 발생 시 환율 변동성이 확대될 수 있다는 우려도 제기된다....",
-    "date": "Mon, 06 Jul 2026 14:10:00 +0900",
-    "link": "https://www.mt.co.kr/economy/2026/07/06/2026070612174573260",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.56,
-        "prev_close": 8088.34,
-        "curr_close": 8042.91
-      }
-    ]
-  },
-  {
-    "title": "고려아연 최윤범표 토로이카 전략...변동성 확대 시장에서도 통했다",
-    "description": "금·은 가격 상승세 둔화 원자재 가격 변동성이 커졌고 아연 가격과 원·달러 환율, 자회사 실적 안정화가... 분기 평균 원·달러 환율도 1502원 수준으로 올라 금·은 가격 하락에 따른 실적 부담을 일부 상쇄한 것으로...",
-    "date": "Mon, 06 Jul 2026 14:06:00 +0900",
-    "link": "https://hbnpress.com/news/view/1065587863873026",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.56,
-        "prev_close": 8088.34,
-        "curr_close": 8042.91
-      }
-    ]
-  },
-  {
-    "title": "외환시장 24시간 개장 첫발... 원화 거래판 커질까",
-    "description": "고환율 부담이 이어지는 가운데 원화 거래 기반이 확대되면 외국인 자금 유입과 환율 안정에도 긍정적으로 작용할 수 있다는 기대가 나온다. 6일 한국은행과 재정경제부에 따르면 이날부터 국내 외환시장은 주말과...",
-    "date": "Mon, 06 Jul 2026 14:04:00 +0900",
-    "link": "https://www.m-i.kr/news/articleView.html?idxno=1388505",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.56,
-        "prev_close": 8088.34,
-        "curr_close": 8042.91
-      }
-    ]
-  },
-  {
-    "title": "외환시장 ‘24시간 거래’ 첫 거래 시작…“원화 매력 높일 것”",
-    "description": "외환시장 24시간 개장 첫날인 오늘 원·달러 환율은 오름세로 출발했습니다. 전 거래일보다 2원 오른 1,527원 60전으로 오전 6시 거래를 시작한 뒤 장 초반 상승폭을 키웠습니다. 지난 3일, 환율이 30원 넘게 하락해 1,520원...",
-    "date": "Mon, 06 Jul 2026 14:03:00 +0900",
-    "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8603073&ref=A",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.56,
-        "prev_close": 8088.34,
-        "curr_close": 8042.91
-      }
-    ]
-  },
-  {
-    "title": "유안타證 “한화오션, 실적보다 캐나다 잠수함 프로젝트가 변수”",
-    "description": "환율 효과도 실적에 보탬이 될 전망이다. 유안타증권은 원화 약세 영향으로 2분기 매출이 전분기 대비 780억원, 영업이익이 270억원 증가하는 효과가 있을 것으로 봤다. 선종별로는 액화천연가스운반선(LNGC)...",
-    "date": "Mon, 06 Jul 2026 14:02:00 +0900",
-    "link": "https://www.thepowernews.co.kr/view.php?ud=20260706124228722de3f0aa1be_7",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.56,
-        "prev_close": 8088.34,
-        "curr_close": 8042.91
-      }
-    ]
-  },
-  {
-    "title": "[만평] 환율 4중 파도",
-    "description": "",
-    "date": "Mon, 06 Jul 2026 14:02:00 +0900",
-    "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=355559",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.56,
-        "prev_close": 8088.34,
-        "curr_close": 8042.91
-      }
-    ]
-  },
-  {
-    "title": "24시간 외환거래 시대 개막… MSCI 선진지수 편입 디딤돌 될까",
-    "description": "늘고, 환율 안정 요인으로 작용할 수 있을 것&quot;이라고 설명했다. 자금 유입부터 '갭 리스크' 완화 효과 기대... 다만 거래량이 상대적으로 적은 심야 시간대에 외부 충격이 발생할 경우 환율 변동성이 일시적으로 확대될 수...",
-    "date": "Mon, 06 Jul 2026 14:00:00 +0900",
-    "link": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307041",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.56,
-        "prev_close": 8088.34,
-        "curr_close": 8042.91
-      }
-    ]
-  },
-  {
-    "title": "韓 증시 '카지노' 만든 삼전닉스 레버리지 … 정치권서 '폐지·책임론' ...",
-    "description": "삼성전자와 SK하이닉스 단일종목 레버리지 ETF는 고환율 국면에서 해외 증시로 향하던 국내 투자자금을 국내... 8로 역대급으로 치솟았다&quot;며 &quot;애초 목표였던 해외 투자자금의 국내환류와 환율방어 효과도 미미하다&quot;고...",
-    "date": "Mon, 06 Jul 2026 14:00:00 +0900",
-    "link": "https://www.newdaily.co.kr/site/data/html/2026/07/06/2026070600133.html",
-    "stocks": [
-      {
-        "name": "삼성전자",
-        "result": "상승",
-        "change_pct": 1.78,
-        "prev_close": 309500.0,
-        "curr_close": 315000.0
-      },
-      {
-        "name": "SK하이닉스",
-        "result": "하락",
-        "change_pct": -2.06,
-        "prev_close": 2425000.0,
-        "curr_close": 2375000.0
-      }
-    ]
-  },
-  {
-    "title": "토스뱅크 체크카드 1000만↑…10대부터 106세 고객 1600억 캐시백 혜택",
-    "description": "그 결과 아이통장에서 아이카드로 이어지는 발급전환율은 50%에서 71%로 큰폭 상승했습니다. 토스뱅크 체크카드는 해외결제에서도 활발히 사용되고 있습니다. 해외결제 상위국가는 일본이 31.3%로 압도적입니다....",
-    "date": "Mon, 06 Jul 2026 13:58:00 +0900",
-    "link": "https://www.inthenews.co.kr/news/article.html?no=88976",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.56,
-        "prev_close": 8088.34,
-        "curr_close": 8042.91
-      }
-    ]
-  },
-  {
-    "title": "&quot;정부 여유자금, 기업은행 예치로?&quot;…국회-노조 '말' 들어보니",
-    "description": "이어 &quot;그 사이 금리는 높아지고 경기 침체는 길어졌으며, 중소기업의 한숨은 더 깊어졌다&quot;고 지적했다. 그는 기업은행의 공적인 역할에 대해서도 강조했다. 신장식 의원은 &quot;기업은행은 일반 시중은행과 다르다....",
-    "date": "Mon, 06 Jul 2026 14:12:00 +0900",
-    "link": "http://www.newsdream.kr/news/articleView.html?idxno=114051",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.57,
-        "prev_close": 8088.34,
-        "curr_close": 8042.05
-      }
-    ]
-  },
-  {
-    "title": "[단독]빽다방 간판 백종원 빠진다…글로벌 겨냥 영문 BI로 교체",
-    "description": "지속되는 외식 경기 침체를 극복하고 브랜드 이미지를 회복하기 위해 본사 차원에서 브랜드 지원을 약속한다는 의미에서였다. 백 대표는 이 자리에서 &quot;잃어버린 1년을 다시 찾은 10년으로 보답하겠다&quot;며 빽다방 브랜드 BI...",
-    "date": "Mon, 06 Jul 2026 13:58:00 +0900",
-    "link": "https://view.asiae.co.kr/article/2026070613442960489",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.57,
-        "prev_close": 8088.34,
-        "curr_close": 8042.05
-      }
-    ]
-  },
-  {
-    "title": "연준 회의록·고용지표 대기…비트코인 반등세 이어질까",
-    "description": "고용이 둔화되면 경기 침체 우려가 커질 수 있지만, 동시에 연준이 금리 인상 속도를 늦출 명분이 되기도 합니다. 이 때문에 주식과 암호화폐 시장에서는 금리 부담 완화 기대와 경기 둔화 우려가 동시에 작용하며...",
-    "date": "Mon, 06 Jul 2026 13:42:00 +0900",
-    "link": "https://www.tokenpost.kr/news/cryptocurrency/375291",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.57,
-        "prev_close": 8088.34,
-        "curr_close": 8042.05
-      }
-    ]
-  },
-  {
-    "title": "20년 버틴 동네 맛집도 간판 내렸다… 지난해 창업 대비 폐업률 12년 만...",
-    "description": "고물가와 경기 침체에 따른 소비 위축이 장기화되면서 베테랑 자영업자들도 한계에 봉착한 것이라는 관측이 나온다. ◆ 음식업 직격탄…20년 넘은 노포마저 줄폐업 업태별로는 대표적 자영업 업종인 음식업의...",
-    "date": "Mon, 06 Jul 2026 13:42:00 +0900",
-    "link": "https://www.segye.com/newsView/20260706508941?OutUrl=naver",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.57,
-        "prev_close": 8088.34,
-        "curr_close": 8042.05
-      }
-    ]
-  },
-  {
-    "title": "[민선 9기 영주시] 황병직 시장 &quot;행정 혁신으로 경제 살리겠다&quot;",
-    "description": "민선 9기 출범 이후 인수위원회 업무보고를 통해 영주의 현실을 진단한 그는 지방소멸과 경기침체라는 위기를 인정하면서도 첨단베어링 국가산업단지와 영주호, 부석사, 소백산 등 성장 기반은 충분하다고 진단했다. 결국...",
-    "date": "Mon, 06 Jul 2026 13:40:00 +0900",
-    "link": "https://www.idaegu.com/news/articleView.html?idxno=664109",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.57,
-        "prev_close": 8088.34,
-        "curr_close": 8042.05
-      }
-    ]
-  },
-  {
-    "title": "HJ중공업, '벡스코 제3전시장' 품으며 부산 랜드마크 건설 주도",
-    "description": "[HJ중공업] 국내 건설경기 침체가 장기화되면서 민간 건축시장이 위축된 가운데 공공 대형 프로젝트를 둘러싼 건설사들의 경쟁은 어느 때보다 치열해지고 있다. 이같은 상황에서 HJ중공업 건설부문이 부산 최대 규모의...",
-    "date": "Mon, 06 Jul 2026 13:20:00 +0900",
-    "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=306354",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.57,
-        "prev_close": 8088.34,
-        "curr_close": 8042.05
-      }
-    ]
-  },
-  {
-    "title": "재정여건 어려운 광양시, 징수 총력전…76억 체납액 정리 나서",
-    "description": "반면 경기 침체와 고물가 등으로 경제적 어려움을 겪는 생계형 체납자에게는 분납을 적극 안내하는 등 납부 부담을 줄이는 맞춤형 지원도 함께 추진한다. 무재산 등 사실상 징수가 어려운 체납자는 관련 기준을 엄격히...",
-    "date": "Mon, 06 Jul 2026 13:16:00 +0900",
-    "link": "https://www.polinews.co.kr/news/articleView.html?idxno=736111",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.57,
-        "prev_close": 8088.34,
-        "curr_close": 8042.05
-      }
-    ]
-  },
-  {
-    "title": "HJ중공업, 부산 벡스코 제3전시장 2572억원 규모 수주",
-    "description": "최근 건설경기 침체 속에서도 드물게 나온 대형 공공사업으로, 입찰 단계부터 국내 주요 건설사들의 관심을 모았다. 특히 이번 입찰은 가격 경쟁보다 설계와 기술력이 당락을 좌우하는 기술형 입찰 성격이 강했던...",
-    "date": "Mon, 06 Jul 2026 13:16:00 +0900",
-    "link": "http://wemakenews.co.kr/news/view.php?no=25697",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.57,
-        "prev_close": 8088.34,
-        "curr_close": 8042.05
-      }
-    ]
-  },
-  {
-    "title": "'시한부' 홈플러스, 결국 청산 수순 가나… 메리츠 &quot; MBK와 김병주 회장...",
-    "description": "과거 매각된 점포 사례처럼 부지는 주상복합, 물류센터, 오피스 등으로 용도 변경될 가능성이 크지만, 부동산 경기 침체로 매각 과정은 지연될 가능성이 높다. 민주노총 마트노조는 즉각 정부 개입을 촉구했다. 노조는...",
-    "date": "Mon, 06 Jul 2026 13:10:00 +0900",
-    "link": "http://www.queen.co.kr/news/articleView.html?idxno=459820",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.57,
-        "prev_close": 8088.34,
-        "curr_close": 8042.05
-      }
-    ]
-  },
-  {
-    "title": "[이슈플러스 경남] &quot;인재가 머무는 김해의 미래&quot;…원종하 김해인재양성...",
-    "description": "[앵커] 다음으로 현실로 다가온 학령인구 감소와 지역 경기 침체를 극복하기 위해서도 창의적인 해법이 필요해 보이는데요. 재단은 어떻게 준비 중인지 한번 들어보고 싶습니다. [원종하 / 김해인재양성재단 대표이사]...",
-    "date": "Mon, 06 Jul 2026 13:00:00 +0900",
-    "link": "http://news.lghellovision.net/news/articleView.html?idxno=547343",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.57,
-        "prev_close": 8088.34,
-        "curr_close": 8042.05
-      }
-    ]
-  },
-  {
-    "title": "[인사이트 뉴스] 실적 바닥 찍은 현대제철, '친환경·AI·글로벌' 날개 ...",
-    "description": "◇ 데이터센터·AI 내러티브 탑승, 봉형강의 화려한 변신 건설 경기 침체로 주춤했던 봉형강 부문은 새로운 돌파구를 찾았다. 바로 빅테크 기업들의 인프라 투자 확대로 급성장 중인 '데이터센터' 향 매출이다....",
-    "date": "Mon, 06 Jul 2026 12:58:00 +0900",
-    "link": "https://www.moneystorm.kr/news/articleView.html?idxno=4900",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.57,
-        "prev_close": 8088.34,
-        "curr_close": 8042.05
-      }
-    ]
-  },
-  {
-    "title": "[ABC뉴스 포커스] &quot;시간 바닥날 때 복합불황 닥친다&quot;",
-    "description": "이는 경기침체 하나만으로 설명되는 위기가 아니다. 고금리와 고물가, 고부채, 저성장, 신용축소, 부동산 유동성 악화, 인구구조 변화가 서로 맞물려 개인과 기업을 동시에 압박하는 구조적 위기를 뜻한다. 저자는 이러한...",
-    "date": "Mon, 06 Jul 2026 12:56:00 +0900",
-    "link": "https://www.abcn.kr/news/articleView.html?idxno=89153",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.57,
-        "prev_close": 8088.34,
-        "curr_close": 8042.05
-      }
-    ]
-  },
-  {
-    "title": "대통령의 기업 길들이기 변천사",
-    "description": "건설 경기가 침체하면서 건설 현장 자체가 줄어 사고사망자와 건수 모두 줄었다는 설명이다. 반면 고용노동부는 5인 미만 사업장에서 상황이 나아진 것을 들어 구조적 변화로 보긴 어렵다고 반박했다. 감사 인사 나누는...",
-    "date": "Mon, 06 Jul 2026 12:42:00 +0900",
-    "link": "https://www.ilyosisa.co.kr/news/article.html?no=256733",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.57,
-        "prev_close": 8088.34,
-        "curr_close": 8042.05
-      }
-    ]
-  },
-  {
-    "title": "영주시, 공정한 납세문화 조성 위한 체납차량 일제단속",
-    "description": "자동차세와 차량 관련 과태료를 체납한 차량을 대상으로 번호판 영치 등 현장 단속을 집중 실시하고, 상습 체납차량에 대해서는 차량 인도명령과 견인, 공매 등 강력한 체납처분도 병행한다.시는 경기 침체 장기화로 일시...",
-    "date": "Mon, 06 Jul 2026 12:38:00 +0900",
-    "link": "https://www.kbsm.net/news/view.php?idx=525646",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.57,
-        "prev_close": 8088.34,
-        "curr_close": 8042.05
-      }
-    ]
-  },
-  {
-    "title": "HJ중공업, 2572억 원 '벡스코 제3전시장' 수주…기술형 입찰 연속 석권",
-    "description": "연면적 5만8810㎡, 지하 1층·지상 4층 규모로 신축되며, 건설 경기 침체 속 대규모 공공 발주인 만큼 대형·중견 건설사들의 수주 경쟁이 치열했다. HJ중공업은 올 상반기 '서부산 행정복합타운 건립공사(637억 원)'·'제천...",
-    "date": "Mon, 06 Jul 2026 12:35:00 +0900",
-    "link": "https://www.polinews.co.kr/news/articleView.html?idxno=736108",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.57,
-        "prev_close": 8088.34,
-        "curr_close": 8042.05
-      }
-    ]
-  },
-  {
-    "title": "부산 벡스코 제3전시장 건립 본격화, HJ중공업이 쏘아 올린 기술형 입찰...",
-    "description": "기술형 입찰의 강자, HJ중공업의 독주가 시작되다 건설 경기 침체라는 거센 파도 속에서도 HJ중공업의 행보가 예사롭지 않다. HJ중공업 건설부문은 최근 부산광역시 건설본부가 발주한 2,572억 원 규모의 ‘부산 벡스코...",
-    "date": "Mon, 06 Jul 2026 12:32:00 +0900",
-    "link": "http://www.globalepic.co.kr/view.php?ud=20260706122842528248439a4874_29",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.57,
-        "prev_close": 8088.34,
-        "curr_close": 8042.05
-      }
-    ]
-  },
-  {
-    "title": "중동 넘어 미국으로…K-건설 해외지도 '2극 체제' 재편",
-    "description": "업계 관계자는 &quot;국내 주택 경기 침체와 원전 르네상스가 맞물리며 미국이 매력적인 대안으로 떠오른 것은 분명하다&quot;며 &quot;단순 시공사에서 개발사업자로 전환하는 과정에서 넘어야 할 과제도 적지 않을 것&quot;이라고...",
-    "date": "Mon, 06 Jul 2026 12:18:00 +0900",
-    "link": "https://www.news1.kr/realestate/general/6218822",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.57,
-        "prev_close": 8088.34,
-        "curr_close": 8042.05
-      }
-    ]
-  },
-  {
-    "title": "수원시, '수원형 빌드체크'로 숨은 세원 21억 5000만원 발굴",
-    "description": "시는 자체 개발한 조사 기법을 활용해 부동산 경기 침체로 어려운 세수 여건 속에서도 새로운 세원을 발굴하며 지방세 조사 역량을 강화하고 있다고 설명했다. 시는 앞으로도 자체 개발 조사 기법을 지속적으로 보완...",
-    "date": "Mon, 06 Jul 2026 12:12:00 +0900",
-    "link": "https://www.news1.kr/local/gyeonggi/6218830",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.57,
-        "prev_close": 8088.34,
-        "curr_close": 8042.05
-      }
-    ]
-  },
-  {
-    "title": "인천 미추홀구, 전통시장 찾아 상인 의견 청취하며 현장 중심 소통행정...",
-    "description": "최근에는 소비환경 변화와 경기 침체 등의 영향으로 전통시장 경쟁력 강화를 위한 시설 개선과 경영 지원, 고객 편의 확대 사업이 여러 지방자치단체에서 추진되고 있다. 현장의 의견을 정책에 반영하는 소통 행정도 시장...",
-    "date": "Mon, 06 Jul 2026 12:12:00 +0900",
-    "link": "https://www.kmaeil.com/news/articleView.html?idxno=644407",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.61,
-        "prev_close": 8088.34,
-        "curr_close": 8038.82
-      }
-    ]
-  },
-  {
-    "title": "20대 주목, 자수성가한 백만장자가 전하는 현실적인 경제적 조언",
-    "description": "경기가 침체되면 긴 시간 투자 수익이 마이너스가 될 수도 있지만, 역사적으로 돌아보면 결국 시장은 성장했다. 일찍 투자를 시작할수록, 하락장을 견디고 다시 회복할 시간을 충분히 가질 수 있다는 것이다. 세티는...",
-    "date": "Mon, 06 Jul 2026 12:09:00 +0900",
-    "link": "https://www.gqkorea.co.kr/2026/07/06/20%eb%8c%80-%ec%a3%bc%eb%aa%a9-%ec%9e%90%ec%88%98%ec%84%b1%ea%b0%80%ed%95%9c-%eb%b0%b1%eb%a7%8c%ec%9e%a5%ec%9e%90%ea%b0%80-%ec%a0%84%ed%95%98%eb%8a%94-%ed%98%84%ec%8b%a4%ec%a0%81%ec%9d%b8-%ea%b2%bd/?utm_source=naver&utm_medium=partnership",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.61,
-        "prev_close": 8088.34,
-        "curr_close": 8038.82
-      }
-    ]
-  },
-  {
-    "title": "[Gov &amp; Now] AI로 공공혁신 속도…과기부, GovTech 실증사업 18개 착수",
-    "description": "공공기관을 첫 고객(First Customer)으로 확보한 기업들이 사업화 실적을 쌓고 국내외 시장 진출 기반까지 마련할 수 있도록 지원한다는 계획이다. 과학기술정보통신부는 '2026년 GovTech 창업기업 AI 실증·사업화 지원사업...",
-    "date": "Mon, 06 Jul 2026 14:00:00 +0900",
-    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1715197",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.61,
-        "prev_close": 8088.34,
-        "curr_close": 8038.82
-      }
-    ]
-  },
-  {
-    "title": "AI가 살린 일본 제조업...기업 체감경기 8년 만에 최고",
-    "description": "글로벌 경기 둔화와 미국의 관세 정책 등 대외 불확실성이 이어지는 가운데서도, AI용 반도체와 데이터센터 투자 확대가 기업 실적을 끌어올리며 체감경기를 8년 만에 최고 수준으로 끌어올렸다. 일본은행(BOJ)이 지난 1일...",
-    "date": "Mon, 06 Jul 2026 13:51:00 +0900",
-    "link": "https://www.newspim.com/news/view/20260706000679",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.61,
-        "prev_close": 8088.34,
-        "curr_close": 8038.82
-      }
-    ]
-  },
-  {
-    "title": "‘AI 없는 시장’의 역습…인도 증시 매력 커졌다",
-    "description": "거의 하룻밤 사이에 바뀌었다”면서 “원자재 가격 하락, 자본 유입 개선, 안정적인 금리 등은 향후 몇 분기 동안 기업 실적 상향 조정이 하향 조정보다 더 많이 나타날 가능성이 큰 환경을 조성하고 있다”고 짚었다.",
-    "date": "Mon, 06 Jul 2026 13:46:00 +0900",
-    "link": "https://www.etoday.co.kr/news/view/2600632",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.61,
-        "prev_close": 8088.34,
-        "curr_close": 8038.82
-      }
-    ]
-  },
-  {
-    "title": "포춘 &quot;SK하이닉스 美 상장, AI 랠리 지속 여부 가늠할 시험대&quot;",
-    "description": "포춘은 이란전쟁이 종전을 향해가며 유가와 국채금리가 하락하고, AI열풍이 한층 더 탄력받을 것으로 기대했지만, 투자자들이 기업들의 강한 실적에도 지속가능성에 의구심을 갖게 되었다고 지적했습니다....",
-    "date": "Mon, 06 Jul 2026 13:44:00 +0900",
-    "link": "https://biz.sbs.co.kr/article_hub/20000320851?division=NAVER",
-    "stocks": [
-      {
-        "name": "SK하이닉스",
-        "result": "하락",
-        "change_pct": -2.06,
-        "prev_close": 2425000.0,
-        "curr_close": 2375000.0
-      }
-    ]
-  },
-  {
-    "title": "금호석유화학그룹, 업황 침체 속 스페셜티 소재로 경쟁력 강화",
-    "description": "구조조정 논의까지 확산되는 가운데 기업들은 단기 실적보다 경쟁력 확보에 무게를 두는 전략으로 전환하고 있다. 이에 금호석유화학은 전기차용 고기능성 합성고무인 SSBR(솔루션스타이렌부타디엔고무) 생산능력을...",
-    "date": "Mon, 06 Jul 2026 13:38:00 +0900",
-    "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=306360",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.61,
-        "prev_close": 8088.34,
-        "curr_close": 8038.82
-      }
-    ]
-  },
-  {
-    "title": "[분석_통신서비스 ④자람테크놀로지] 백준현 대표의 자람테크놀로지, 프...",
-    "description": "자람테크놀로지는 차세대 통신반도체와 온디바이스 AI 반도체 등을 미래 성장동력으로 내세우고 있지만, 2025년 실적은 기술기업의 성장 전략이 실제 수익성으로 연결되기까지 상당한 비용과 시간이 필요하다는...",
-    "date": "Mon, 06 Jul 2026 13:36:00 +0900",
-    "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=434798",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.61,
-        "prev_close": 8088.34,
-        "curr_close": 8038.82
-      }
-    ]
-  },
-  {
-    "title": "프랭클린템플턴 &quot;K증시 레버리지, 구조적 리스크…반도체 헤지 장치 마...",
-    "description": "그는 &quot;메모리 슈퍼사이클은 부인할 수 없는 흐름이며, AI가 견인하는 고대역폭메모리(HBM) 수요는 기업들의 실적 전망을 완전히 바꿔놨다&quot;며 &quot;문제는 지수의 쏠림 현상이 심화되고 있다는 점&quot;이라고 강조했다. 그는 &quot;현재...",
-    "date": "Mon, 06 Jul 2026 13:30:00 +0900",
-    "link": "https://www.widedaily.com/news/articleView.html?idxno=297039",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.61,
-        "prev_close": 8088.34,
-        "curr_close": 8038.82
-      }
-    ]
-  },
-  {
-    "title": "통산 16회 종합대상 빛나는 롯데관광개발, 여행업계 첫 '명예의 전당' 입...",
-    "description": "경영진의 리더십부터 사회적 책임 이행, 미래 전략과 실적까지 기업 경영 전반을 훑어본 뒤 까다로운 현장 검증과 임직원 만족도 조사를 거쳐 주인공을 가린다. 통산 16회 종합대상 기반으로 최고 영예 달성 명예의 전당은...",
-    "date": "Mon, 06 Jul 2026 13:28:00 +0900",
-    "link": "https://www.pointe.co.kr/news/articleView.html?idxno=81443",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.61,
-        "prev_close": 8088.34,
-        "curr_close": 8038.82
-      }
-    ]
-  },
-  {
-    "title": "“90조 찍고 끝? 메모리값 더 오른다”…“메모리 슈퍼사이클 중간도 안...",
-    "description": "시장에서는 이번 전망이 단순히 삼성전자 한 기업의 실적을 넘어 AI 시대 메모리 산업의 구조적 변화를 보여주는 신호라는 평가도 나온다. 생성형 AI와 데이터센터 투자 경쟁이 이어지는 한 메모리 확보 경쟁도...",
-    "date": "Mon, 06 Jul 2026 13:14:00 +0900",
-    "link": "https://biz.heraldcorp.com/article/10799410?ref=naver",
-    "stocks": [
-      {
-        "name": "삼성전자",
-        "result": "상승",
-        "change_pct": 1.62,
-        "prev_close": 309500.0,
-        "curr_close": 314500.0
-      }
-    ]
-  },
-  {
-    "title": "OpenAI가 멈추면 AI IPO도 멈춘다… 공개시장은 'AI의 손익계산서'를 요...",
-    "description": "AI IPO가 흥행하면 한국 기업의 실적 추정에도 프리미엄이 붙을 수 있다. AI IPO가 흔들리면 가장 먼저 조정받는 것은 AI 설비투자 확대가 장기간 이어질 것이라는 기대다. 투자자가 봐야 할 것은 상장일이 아니라...",
-    "date": "Mon, 06 Jul 2026 13:04:00 +0900",
-    "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=61233",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.61,
-        "prev_close": 8088.34,
-        "curr_close": 8038.82
-      }
-    ]
-  },
-  {
-    "title": "코스피 장중 8,300선 돌파 후 급락…외국인 12거래일 연속 '팔자'에 8천선...",
-    "description": "시장 전문가들은 당분간 국내 증시가 기업 실적과 외국인 수급, 글로벌 투자심리 변화에 민감하게 반응할 것으로 전망하고 있다. 특히 삼성전자 실적 발표와 SK하이닉스 ADR 상장 결과가 반도체 업종뿐 아니라 코스피...",
-    "date": "Mon, 06 Jul 2026 12:50:00 +0900",
-    "link": "https://www.ppss.kr/news/articleView.html?idxno=301118",
-    "stocks": [
-      {
-        "name": "삼성전자",
-        "result": "상승",
-        "change_pct": 1.62,
-        "prev_close": 309500.0,
-        "curr_close": 314500.0
-      },
-      {
-        "name": "SK하이닉스",
-        "result": "하락",
-        "change_pct": -2.06,
-        "prev_close": 2425000.0,
-        "curr_close": 2375000.0
-      }
-    ]
-  },
-  {
-    "title": "[팜투어] 하반기 허니문 시장, '발리' 선호도 지속… 리조트 직거래 서...",
-    "description": "연간 2만 쌍 이상의 수주 실적을 바탕으로 기업 신용등급 A-를 확보하고 있으며, 소비자의 거래 안전을 위해 21억 5천만 원 규모의 보증보험에 가입하고 전국 16개 지점망을 통해 계약 이행의 신뢰도를 유지하고 있다....",
-    "date": "Mon, 06 Jul 2026 12:40:00 +0900",
-    "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1095326",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.61,
-        "prev_close": 8088.34,
-        "curr_close": 8038.82
-      }
-    ]
-  },
-  {
-    "title": "삼성전자, 2분기 영업익 '85조원' 넘본다…분기 최대 실적 기대감",
-    "description": "올해 1분기 삼성전자는 매출 133조9000억원, 영업이익 57조2000억원으로 국내 기업 사상 최대 분기 실적을 기록한 바 있다. 2분기에는 매출과 영업이익 모두 이를 크게 웃돌 것으로 예상된다. 특히 영업이익은 단 한 분기...",
-    "date": "Mon, 06 Jul 2026 12:34:00 +0900",
-    "link": "https://www.greened.kr/news/articleView.html?idxno=344289",
-    "stocks": [
-      {
-        "name": "삼성전자",
-        "result": "상승",
-        "change_pct": 1.62,
-        "prev_close": 309500.0,
-        "curr_close": 314500.0
-      }
-    ]
-  },
-  {
-    "title": "반도체 '슈퍼위크' 시작…기대와 경계 속 코스피 8000선 다시 붕괴",
-    "description": "특히 AI 산업이 국내 반도체 기업 실적을 이끄는 핵심 성장축으로 자리 잡으면서 이번 실적 시즌은 단순한 분기 성과를 넘어 하반기 증시 방향성을 결정하는 중요한 분수령이 될 것으로 평가된다. 증권업계 관계자는...",
-    "date": "Mon, 06 Jul 2026 12:18:00 +0900",
-    "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=102050",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.57,
-        "prev_close": 8088.34,
-        "curr_close": 8042.32
-      }
-    ]
-  },
-  {
-    "title": "스트라드비젼, 올 상반기 신규 프로젝트 390억 수주… &quot;지난해 연매출 ...",
-    "description": "김준환 스트라드비젼 대표는 &quot;IPO 이후 시장에서는 단기적인 수급 이슈에 관심이 쏠리고 있지만, 스트라드비젼은 지속적인 기술 경쟁력과 실적을 통해 기업가치를 높여나가겠다&quot;며, &quot;이번에 확보한 390억원 규모의...",
-    "date": "Mon, 06 Jul 2026 12:06:00 +0900",
-    "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/07/06/2026070680097.html",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.57,
-        "prev_close": 8088.34,
-        "curr_close": 8042.32
-      }
-    ]
-  },
-  {
-    "title": "코스피 고공행진에 비상장주식 증여 주목받는 이유",
-    "description": "다만 관련 업종 대형주의 실적 호조가 이어지는 국면에서는 그 업종에 속한 비상장기업의 실적과 평가액도 함께 오를 가능성이 있어, 개별 기업의 최근 3개년 실적 추이를 먼저 점검한 뒤 증여 시점을 판단해야 한다는...",
-    "date": "Mon, 06 Jul 2026 12:04:00 +0900",
-    "link": "https://www.junggi.co.kr/news/articleView.html?idxno=37026",
-    "stocks": [
-      {
-        "name": "코스피",
-        "result": "하락",
-        "change_pct": -0.57,
-        "prev_close": 8088.34,
-        "curr_close": 8042.32
+        "change_pct": -9.86,
+        "prev_close": 2343000.0,
+        "curr_close": 2112000.0
       }
     ]
   }
